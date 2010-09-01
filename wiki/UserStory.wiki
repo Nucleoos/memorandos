@@ -5,7 +5,7 @@
 
 "O Sistema de Memorandos On-Line deverá permitir que os usuários possam enviar comunicados, pareceres, solicitações e informativos com segurança, em tempo real, sem necessidade do uso de papel. Deve ser possível localizar um memorando enviado, saber qual foi o roteiro por ele percorrido e todos os despachos que foram adicionados.<br>Recursos como moderação de conteúdo, avisos por e-mail, mensagens de cobrança, transferência de arquivos anexados e agendamento de ausências complementam a eficiência do sistema." 
 
-Funcionalidades: 
+<b>Funcionalidades:</b> 
       - Memorandos individuais e circulares;<br> 
       - Caixa Postal individual com busca;<br> 
       - Agendamento de ausências;<br> 
@@ -16,6 +16,29 @@ Funcionalidades:
 
 
 = Details =
+
+
+<b>Autenticação e controle:</b>
+- Login com autenticação (se possível, recuperar senha pelo e-mail);
+- Cadastro de usuário;
+
+<b>Tela Inicial:</b>
+- Criar Memorandos, Oficios, Requerimentos no formato PDF (permitir que o usuário possa criar seu próprio documento, usando a estrutura desejada);
+- Localizar os Memorando enviados, identificando a rota percorrida pelo mesmo e os despachos que foram adicionados;
+- Enviar Mensagens;
+
+<b>Tramitação do processo:</b>
+- Escolher tipo de memorando: individual ou circular;
+- Criação de memorando: Destinatário, Assunto e descrição, arquivos anexos, conferência, número protocolo automático;
+- Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução.
+- Tramite Interno: Caixa Postal com sistema de busca, despachos, mensagens de alerta, notificações por e-mail;
+- Arquivamento: Automático para memorandos circulares; manual para memorandos individuais;
+
+<b>Recursos adicionais:</b>
+- Avisos por e-mail;<br>
+- Mensagens de cobrança;<br>
+- Transferência de Arquivos Anexados;<br>
+- Agendamento de Ausências; <br>
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
