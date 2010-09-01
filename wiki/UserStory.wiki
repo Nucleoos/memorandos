@@ -23,16 +23,16 @@
       - Cadastro de usuário;
 
 <b>Tela Inicial:</b>
-      - Criar Memorandos, Oficios, Requerimentos no formato PDF (permitir que o usuário possa criar seu próprio documento, usando a estrutura desejada);
-      - Localizar os Memorando enviados, identificando a rota percorrida pelo mesmo e os despachos que foram adicionados;
-      - Enviar Mensagens;
+      - Criar Memorandos, Oficios, Requerimentos no formato PDF (permitir que o usuário possa criar seu próprio documento, usando a estrutura desejada);<br>
+      - Localizar os Memorando enviados, identificando a rota percorrida pelo mesmo e os despachos que foram adicionados;<br>
+      - Enviar Mensagens;<br>
 
 <b>Tramitação do processo:</b>
-      - Escolher tipo de memorando: individual ou circular;
-      - Criação de memorando: Destinatário, Assunto e descrição, arquivos anexos, conferência, número protocolo automático;
-      - Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução.
-      - Tramite Interno: Caixa Postal com sistema de busca, despachos, mensagens de       alerta, notificações por e-mail;
-      - Arquivamento: Automático para memorandos circulares; manual para memorandos individuais;
+      - Escolher tipo de memorando: individual ou circular;<br>
+      - Criação de memorando: Destinatário, Assunto e descrição, arquivos anexos, conferência, número protocolo automático;<br>
+      - Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução.<br>
+      - Tramite Interno: Caixa Postal com sistema de busca, despachos, mensagens de       alerta, notificações por e-mail;<br>
+      - Arquivamento: Automático para memorandos circulares; manual para memorandos individuais;<br>
 
 <b>Recursos adicionais:</b><br>
       - Avisos por e-mail;<br>
