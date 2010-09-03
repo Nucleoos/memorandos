@@ -40,4 +40,4 @@
       - Transferência de Arquivos Anexados;<br>
       - Agendamento de Ausências; <br>
 
-||UserStories||Descricao||Tarefa||Iteracao||Prioridade || Tempo||
+||User Stories||Descricao||Tarefa||Iteracao||Prioridade || Tempo||
