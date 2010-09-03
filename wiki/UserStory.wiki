@@ -40,7 +40,4 @@
       - Transferência de Arquivos Anexados;<br>
       - Agendamento de Ausências; <br>
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+||US||Descricao||Tarefa||Iteracao||PrioridadeTempo||
