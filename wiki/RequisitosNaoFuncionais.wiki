@@ -14,3 +14,14 @@ Requisitos não funcionais levantados pelo cliente
 ||RNF04 ||Segurança ||O sistema deve prover acesso seguro via rede com uso de protocolos de segurança como https e os dados devem ser criptografados ||Essencial ||
 ||RNF05 ||Portabilidade ||O sistema desenvolvido será independente do SO.||Essencial ||
 ||RNF06 ||Tempo de resposta ||Definição do limite carga de requisições simultâneas apartir do tempo médio estimado de cada solicitação. Para isso devemos ter dados do tempo de tráfego da rede, controle de fluxo e de congestionamento ||Essencial ||
+
+----
+----
+
+= Requisitos do Produto =
+
+||RNF ||Descrição ||Resumo ||Prioridade ||
+||RNF ||Padrão de Desenvolvimento ||Será utilizada o padrão XP1 || ||
+||RNF || || || ||
+||RNF || || || ||
+||RNF || || || ||
