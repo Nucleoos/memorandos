@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Descrevemos aqui os requisitos funcionais.
+
+
+= Controle de Acesso =
+
+Requisitos necessários para acesso do usuário ao sistema
+
+||RF ||??? ||Descrição ||Prioridade ||
+||RF01 ||Solicitação de acesso ao sistma || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail|| Alta ||
+|| || || ||
+|| || || ||
+|| || || ||
+|| || || ||
+|| || || ||
