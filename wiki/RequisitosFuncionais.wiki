@@ -11,7 +11,7 @@ Requisitos necessários para acesso do usuário ao sistema
 
 ||RF ||??? ||Descrição ||Prioridade ||
 ||RF01 ||Solicitação de acesso ao sistema || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail|| Alta ||
-||RF02 || || || ||
+||RF02 ||===Acesso ao Sistema=== ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema || Alta ||
 ||RF03 || || || ||
 ||RF04 || || || ||
 ||RF05 || || || ||
