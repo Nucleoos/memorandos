@@ -9,3 +9,8 @@ Requisitos não funcionais levantados pelo cliente
 
 ||RNF ||Descrição ||Resumo ||Prioridade ||
 ||RNF01 ||Usabilidade ||O sistema deve oferecer uma interface simples considerando as diferentes características sociais e culturais dos usuários. A simplicidade aqui exposta leva em conta a facilidade de navegação de forma bastante intuitiva, o fácil entendimento do que se propõe e objetividade ||Essencial ||
+||RNF02 ||Confiabilidade ||O documento enviado é confidencial e deve chegar apenas ao destino desejado||Essencial ||
+||RNF03 ||Disponibilidade ||O sistema ficará disponível 24h por dia e 7 dias na semana ||Essencial ||
+||RNF04 ||Segurança ||O sistema deve prover acesso seguro via rede com uso de protocolos de segurança como https e os dados devem ser criptografados ||Essencial ||
+||RNF || || || ||
+||RNF || || || ||
