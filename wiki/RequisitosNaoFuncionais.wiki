@@ -22,6 +22,6 @@ Requisitos não funcionais levantados pelo cliente
 
 ||RNF ||Descrição ||Resumo ||Prioridade ||
 ||RNF07 ||Padrão de Desenvolvimento ||A arquitetura do sistema segue o padrão MVC e será utilizado UML 2.0 para geração de diagramas referentes ao sistemas nas sua mais diversas visões (Logical, Implementation, Process, Use-Case, Deployment). Como ferramenta de desenvolvimento de código utilizaremos o framework open source Grails com uso de linguagem Groovy e Java2EE e banco de dados MySQL.  ||Essencial ||
-||RNF || || || ||
+||RNF08 ||Processo de Desenvolvimento ||Será adotado o processo de desenvolvimento [http://www.google.com Google home page] XP1 por ser ágil. Requisito importante para o sucesso do Projeto. ||Essencial ||
 ||RNF || || || ||
 ||RNF || || || ||
