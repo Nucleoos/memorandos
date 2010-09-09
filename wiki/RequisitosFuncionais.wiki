@@ -9,7 +9,7 @@ Descrevemos aqui os requisitos funcionais.
 
 Requisitos necessários para acesso do usuário ao sistema
 
-||RF ||??? ||Descrição ||Prioridade ||
+||<b>RF</b> ||<b>Descrição</b> ||<b>Descrição</b> ||<b>Prioridade</b> ||
 ||RF01 ||Solicitação de acesso ao sistema || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail|| Alta ||
 ||RF02 ||<b> Acesso ao Sistema</b> ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema || Alta ||
 ||RF03 || || || ||
