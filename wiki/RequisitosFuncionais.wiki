@@ -16,7 +16,7 @@
 ||RF02 ||Acesso ao Sistema ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema. || Alta ||
 ||RF03 ||Primeiro Acesso ||Por questão de segurança, o usuário será notificado para alterar sua senha de acesso ao sistema. || Alta ||
 ||RF04 ||Vinculação ao Setor ||O usuários será obrigatoriamente vinculado ao setor que trabalha com o intuito de receber todos os documentos destinados a este setor.||Alta ||
-
+----
 ----
 =Gerenciamento dos Setores da Instituição=
 ==Requisitos necessários para gerenciamento dos setores da instituição==
@@ -24,7 +24,7 @@
 ||RF05 ||Cadastro de Setores ||O administrador do sistema deverá cadastrar os setores de acordo com a identificação de cada um. Siglas, nomes e descrição são dados excessiais para identificação. ||Alta ||
 ||RF06 ||Desativação de Setores ||O administrador quando autorizado poderá desativar o setor sem excluí-lo, pois os documento destinados a este setor deverá ser mantido. Entretando não deverá existir nenhum funcionário alocado neste||Alta ||
 ||RF07 ||Exclusão de Setores ||O administrador quando autorizado poderá excluir o setor caso não haja nenhum documento destinado a ele, assim como usuários cadastrados neste.||Alta ||
-
+----
 ----
 =Gerenciamento de Documentos=
 ==Requisitos necessários para gerenciamento de documentos==
