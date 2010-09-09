@@ -4,16 +4,16 @@
 
 Descrevemos aqui os requisitos funcionais.
 
-
+----
 = Controle de Acesso =
 
-Requisitos necessários para acesso do usuário ao sistema
+==Requisitos necessários para acesso do usuário ao sistema==
 
 ||<b>RF</b> ||<b>Descrição</b> ||<b>Resumo</b> ||<b>Prioridade</b> ||
 ||RF01 ||Solicitação de acesso ao sistema || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail|| Alta ||
 ||RF02 ||Acesso ao Sistema ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema || Alta ||
 ||RF03 ||Primeiro Acesso ||Por questão de segurança, o usuário será notificado para alterar sua senha de acesso ao sistema || Alta ||
 ||RF04 ||Vinculação ao Setor ||O usuários será obrigatoriamente vinculado ao setor que trabalha com o intuito de receber todos os documentos destinados a este setor||Alta ||
-||RF05 || || || ||
-||RF06 || || || ||
-|| || || || ||
+
+----
+=Gerenciamento dos Setores da Instituição=
