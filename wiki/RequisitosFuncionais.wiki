@@ -14,6 +14,6 @@ Descrevemos aqui os requisitos funcionais.
 ||RF02 ||Acesso ao Sistema ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema || Alta ||
 ||RF03 ||Primeiro Acesso ||Por questão de segurança, o usuário será notificado para alterar sua senha de acesso ao sistema || Alta ||
 ||RF04 ||Vinculação ao Setor ||O usuários será obrigatoriamente vinculado ao setor que trabalha com o intuito de receber todos os documentos destinados a este setor||Alta ||
-</br></br></br>
+<br><br><br>
 ----
 =Gerenciamento dos Setores da Instituição=
