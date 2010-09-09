@@ -34,7 +34,7 @@
 ==Requisitos necessários para gerenciamento de documentos==
 ||RF08 ||Criação de Documentos ||O usuário deverá informar a identificação (número do protocolo), título, descrição e tipo de documento (memorando individuais e circulares) e em seguida irá anexar um documento como planilha,  texto e slides.  ||Alta ||
 ||RF09 ||Encaminhamento de documentos || Para qual(is) destino(s) segue o documento.||Alta ||
-||RF10 ||Recebimento de Documentos ||O usuários ao acessar o sistema deverá ser notificado da existência de documentos pendentes. ||Alta ||
+||RF10 ||Recebimento de Documentos ||O usuários ao acessar o sistema deverá ser notificado através de e-mail da existência de documentos pendentes. ||Alta ||
 ||RF11 ||Pendências de Recebimento ||O usuário que enviou um documento poderá verificar se este foi lido pelo destinatário(s) ou não ||Alta ||
 ||RF12 ||Pesquisa de Documentos ||O usuário poderá pesquisar um documento que lhe foi enviado ou por ele enviado. ||Alta ||
 ||RF13 ||Histórico de Documentos||O sistema guardará todos os documentos criados. Estes serão sigilosos e acessados por seus responsáveis ||Alta ||
