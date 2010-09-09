@@ -2,12 +2,10 @@
 
 = Introduction =
 
-Add your content here.
+Requisitos não funcionais levantados pelo cliente
 
 
-= Details =
+= Requisitos do Produto =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+||RNF ||Descrição ||Resumo ||Prioridade ||
+||RNF01 ||Usabilidade ||O sistema deve oferecer uma interface simples considerando as diferentes características sociais e culturais dos usuários. A simplicidade aqui exposta leva em conta a facilidade de navegação de forma bastante intuitiva, o fácil entendimento do que se propõe e objetividade ||Essencial ||
