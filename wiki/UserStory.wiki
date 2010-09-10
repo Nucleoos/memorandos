@@ -58,7 +58,7 @@
 ||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
 
 
-||US ||TA || || || || || ||
-||US ||TA || || || || || ||
+||US01 ||TA06 ||Criar e povoar o banco de dados de testes|| ||Desejável ||4h || ||
+||US ||TA ||Criação de _domains classes_ contidos no modelo || ||Essencial ||2h || ||
 ||US ||TA || || || || || ||
 ||US ||TA || || || || || ||
