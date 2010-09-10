@@ -73,6 +73,5 @@
 ||US02 ||TA09 ||Configurar tipos de usuários || ||Essencial ||1h || ||
 ||US02 ||TA10 ||Configurar tipos de documentos || ||Essencial ||1h || ||
 ||US02 ||TA10 ||Implementar algoritmo de criptografia de dados || || || || ||
-||US02 ||TA11 || || || || || ||
-||US02 ||TA12 ||Criar tipos de documentos || || || || ||
-Criar um mecanismo de ajuda para os usuários que esqueceram a senha
+||US02 ||TA11 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha || || ||2h || ||
+||US02 ||TA12 || || || || || ||
