@@ -49,11 +49,14 @@
 <br>
 == Preparação do ambiente de desenvolvimento == 
 <br>
-== SGDB MySQL e servidor web java Apache Tomcat==
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Tempo</b>||
+== SGDB MySQL, servidor web java Apache Tomcat e repositório de código Google code (SVN)==
+||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Tempo</b>||
 ||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição || ||Essencial ||1h ||
-||US01 ||TA02 ||Cadastramento dos usuários no MySQL || ||Essencial ||1h ||
-||US01 ||TA03 ||Instalação e configuração do Apache Tomcat || ||Essencial ||1h ||
-||US01 ||TA04 ||Cadastramento dos usuários do Tomcat || || || ||
-||US ||TA || || || || ||
-||US ||TA || || || || ||
+||US01 ||TA02 ||Cadastramento dos usuários no MySQL || ||Essencial ||1h || ||
+||US01 ||TA03 ||Instalação e configuração do Apache Tomcat || ||Essencial ||1h || ||
+||US01 ||TA04 ||Cadastramento dos usuários do Tomcat || || || || ||
+||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h || ||
+||US ||TA || || || || || ||
+||US ||TA || || || || || ||
+||US ||TA || || || || || ||
+||US ||TA || || || || || ||
