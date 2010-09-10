@@ -40,8 +40,12 @@
       - Transferência de Arquivos Anexados;<br>
       - Agendamento de Ausências; <br>
 
+----
+----
+<br>
+<br>
 ||US||Tarefa||Descricao||Iteracao||Prioridade || Tempo||
-||US ||TA || || || || ||
+||US ||TA01 || || || || ||
 ||US ||TA || || || || ||
 ||US ||TA || || || || ||
 ||US ||TA || || || || ||
