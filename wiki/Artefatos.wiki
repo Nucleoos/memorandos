@@ -9,4 +9,4 @@ Add your content here.
 
 [UserStory]
 
-<wiki:gadget url="http://example.com/gadget.xml" height="200" border="0" />
+<wiki:video url="http://www.youtube.com/watch?v=3LkNlTNHZzE"/>
