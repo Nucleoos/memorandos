@@ -50,7 +50,7 @@
 == Preparação do ambiente de desenvolvimento == 
 <br>
 == SGDB MySQL, servidor web java Apache Tomcat e repositório de código Google code (SVN)==
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Tempo</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição || ||Essencial ||1h || ||
 ||US01 ||TA02 ||Cadastramento dos usuários no MySQL || ||Essencial ||1h || ||
 ||US01 ||TA03 ||Instalação e configuração do Apache Tomcat || ||Essencial ||1h || ||
