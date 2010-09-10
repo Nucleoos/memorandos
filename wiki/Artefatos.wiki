@@ -9,4 +9,4 @@ Add your content here.
 
 [UserStory]
 
-http://memorandos.googlecode.com/files/grails memorando.JPG
+http://memorandos.googlecode.com/files/Grails Framework.JPG
