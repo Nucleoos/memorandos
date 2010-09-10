@@ -9,4 +9,4 @@ Add your content here.
 
 [UserStory]
 
-[UserStory#US2_Sistema de autenticação]
+<wiki:gadget url="http://example.com/gadget.xml" height="200" border="0" />
