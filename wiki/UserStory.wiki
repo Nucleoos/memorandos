@@ -77,7 +77,7 @@
 ||US02 ||TA12 ||Formatação dos campos de login || ||Desejável ||2h || ||
 ||US02 ||TA13 ||Criação da página de login (view)|| ||Essencial ||2h || ||
 ||US02 ||TA14 ||Tratamento de erros de login || ||Essencial ||2h || ||
-
+||US02 ||TA15 ||Caso de teste da US02 || ||Essencial ||4h || ||
 
 
 ||US02 ||TA12 ||Formatação dos campos de login || || || || ||
