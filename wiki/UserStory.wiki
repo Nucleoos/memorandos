@@ -47,10 +47,10 @@
 
 ----
 <br>
-
+== Preparação do ambiente de desenvolvimento == 
 <br>
 ||US||Tarefa||Descricao||Iteracao||Prioridade || Tempo||
-||US ||TA01 || || || || ||
+||US ||TA01 ||Instalação e configuração do MySQL no servidor da instituição || ||Essencial ||1h ||
 ||US ||TA || || || || ||
 ||US ||TA || || || || ||
 ||US ||TA || || || || ||
