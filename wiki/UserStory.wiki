@@ -40,9 +40,14 @@
       - Transferência de Arquivos Anexados;<br>
       - Agendamento de Ausências; <br>
 
+
 ----
+
+=User Stories=
+
 ----
 <br>
+
 <br>
 ||US||Tarefa||Descricao||Iteracao||Prioridade || Tempo||
 ||US ||TA01 || || || || ||
