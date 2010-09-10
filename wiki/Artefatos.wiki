@@ -9,4 +9,4 @@ Add your content here.
 
 [UserStory]
 
-[UserStory#US2_-_Sistema_de_autenticação]
+[UserStory#Sistema_de_autenticação]
