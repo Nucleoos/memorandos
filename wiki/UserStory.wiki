@@ -63,7 +63,7 @@
 
 <br>
 
-==US2 - Sistema de autenticação==
+==US2==
 
 <br>
 
