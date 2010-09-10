@@ -73,7 +73,7 @@
 ||US02 ||TA09 ||Configurar tipos de usuários || ||Essencial ||1h || ||
 ||US02 ||TA10 ||Configurar tipos de documentos || ||Essencial ||1h || ||
 ||US02 ||TA10 ||Implementar algoritmo de criptografia de dados || ||Essencial || || ||
-||US02 ||TA11 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||Desejável || ||2h || ||
+||US02 ||TA11 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha || ||Desejável ||2h || ||
 ||US02 ||TA12 ||Formatação dos campos de login || ||Desejável ||2h || ||
 ||US02 ||TA13 ||Criação da página de login (view)|| ||Essencial ||2h || ||
 ||US02 ||TA14 ||Tratamento de erros de login || ||Essencial ||2h || ||
