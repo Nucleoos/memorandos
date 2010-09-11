@@ -44,9 +44,24 @@
 =User Stories=
 
 ----
+
+<br>
+
+==US0==
+
+<br>
+
+<h2> Estudos de ferramentas relevantes ao projeto  </h2>
+<br>
+
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||US0 ||TA00 ||Estudar o framework Grails e liguagem Groovy. Revisar UML|| ||Essencial ||12h || ||
+
+
 <br>
 
 ==US1==
+
 <h2>Preparação do ambiente de desenvolvimento</h2>
 
 <br>
@@ -80,12 +95,16 @@
 ||US02 ||TA14 ||Tratamento de erros de login|| ||Essencial ||2h || ||
 ||US02 ||TA15 ||Implementar sistema de login/logout do usuário|| ||Essencial ||2h || ||
 
-----
 <br>
+
 ==US3==
+
 <br>
+
 <h2> Intranet </h2>
+
 <br>
+
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US3||TA16||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
 ||US3||TA17||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
@@ -93,11 +112,16 @@
 ||US3||TA19||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
 ||US3||TA20||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
 ||US3||TA21||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
-<br>
- ----
 
 <br>
-==US4==
+
+----
+
 <br>
+
+==US4==
+
+<br>
+
 <h2>Tela inicial</h2>
 ||US4||TA||Implementar tela inicial do sistema ||||Essencial ||2h || ||
