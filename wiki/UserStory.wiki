@@ -72,7 +72,7 @@
 ||US01 ||TA04 ||Cadastramento dos usuários do Tomcat || ||Essencial ||1h || ||
 ||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
 ||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede|| ||Essencial ||1h || ||
-||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.||Essencial ||1h || ||
+||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
 
 <br>
 
