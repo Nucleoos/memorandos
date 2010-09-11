@@ -137,3 +137,4 @@
 ||US05||TA||Implementar criação de memorando: destinatário, assunto e descrição, arquivos anexos, conferência, número protocolo automático|| ||Essencial ||4h || ||
 ||US05||TA||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução  || ||Essencial ||8h || ||
 ||US05||TA||Implementar Trâmite Interno: Caixa Postal com sistema de busca, despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
+||US05||TA||Arquivamento: Automático para memorandos circulares; manual para memorandos individuais|| ||Essencial ||8h || ||
