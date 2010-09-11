@@ -104,7 +104,7 @@
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US3||TA18||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
 ||US3||TA19||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
-||US3||TA20||Implementar controle de Agendamento de Asência || ||Essencial ||4h || ||
+||US3||TA20||Implementar controle(_domains classes_) de Agendamento de Asência || ||Essencial ||4h || ||
 ||US3||TA21||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
 ||US3||TA22||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
 ||US3||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
@@ -120,4 +120,10 @@
 <br>
 
 <h2>Tela inicial</h2>
+
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US4||TA||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||||Essencial ||2h || ||
+||US4||TA||Implementar controle para Criar memorandos|| ||Essencial ||4h || ||
+||US4||TA||Implementar modelo para Criar memorandos|| ||Essencial ||4h || ||
+||US4||TA||Implementar controle para Localizar Memorandos|| ||Essencial ||4h || ||
+||US4||TA||Implementar modelo para Localizar Memorandos|| ||Essencial ||4h || ||
