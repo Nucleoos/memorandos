@@ -80,8 +80,15 @@
 ||US02 ||TA14 ||Tratamento de erros de login|| ||Essencial ||2h || ||
 ||US02 ||TA15 ||Implementar sistema de login/logout do usuário|| ||Essencial ||2h || ||
 
-
-||US02 ||TA15 ||Caso de teste da US02 || ||Essencial ||4h || ||
-
-
-||US02 ||TA12 ||Formatação dos campos de login || || || || ||
+----
+<br>
+==US3==
+<br>
+<h2> Intranet </h2>
+<br>
+||US3||TA||Implementar tela inicial do sistema ||Essencial ||2h || ||
+||US3||TA||
+||US3||TA||Agendamento de ausência. - informando que em determinada data a pessoa estará ausente ||Essencial ||4h || ||
+||US3||TA||Implementar tela de Agendamento de Ausência (view)||Essencial ||2h || ||
+||US3||TA||Implementar modelo de Agendamento de Asência ||Essencial ||4h || ||
+||US3||TA||Implementar controle de Agendamento de Asência ||Essencial ||4h || ||
