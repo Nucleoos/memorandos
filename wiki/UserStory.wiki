@@ -134,10 +134,10 @@
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US05||TA||Implementar memorandos: individual ou circular; || ||Essencial ||4h || ||
-||US05||TA||Implementar criação de memorando: destinatário, assunto e descrição, arquivos anexos, conferência, número protocolo automático|| ||Essencial ||4h || ||
-||US05||TA||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução  || ||Essencial ||8h || ||
-||US05||TA||Implementar Trâmite Interno: Caixa Postal com sistema de busca, despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
-||US05||TA||Implementar Arquivamento: automático para memorandos circulares; manual para memorandos individuais|| ||Essencial ||8h || ||
+||US05||TA||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático|| ||Essencial ||4h || ||
+||US05||TA||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  || ||Essencial ||8h || ||
+||US05||TA||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
+||US05||TA||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais|| ||Essencial ||8h || ||
 
 <br>
 
@@ -149,7 +149,7 @@
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US06||TA||Implementar Avisos que serão enviados automaticamente por e-mail|| ||Essencial ||8h || ||
-||US06||TA||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido anteriormente)|| ||Essencial ||8h || ||
+||US06||TA||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)|| ||Essencial ||8h || ||
 ||US06||TA||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
 
 Transferência de Arquivos Anexados
