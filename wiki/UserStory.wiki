@@ -46,7 +46,7 @@
 ----
 <br>
 
-== US1 ==
+==US1==
 <h2>Preparação do ambiente de desenvolvimento</h2>
 
 <br>
