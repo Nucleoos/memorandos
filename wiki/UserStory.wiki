@@ -111,10 +111,6 @@
 
 <br>
 
-----
-
-<br>
-
 ==US4==
 
 <br>
@@ -127,3 +123,19 @@
 ||US4||TA||Implementar modelo para Criar memorandos|| ||Essencial ||4h || ||
 ||US4||TA||Implementar controle para Localizar Memorandos|| ||Essencial ||4h || ||
 ||US4||TA||Implementar modelo para Localizar Memorandos|| ||Essencial ||4h || ||
+
+<br>
+
+==US5==
+
+<br>
+
+<h2>Tramitação do processo</h2>
+
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||US||TA||Implementar memorandos: individual ou circular; || ||Essencial ||4h || ||
+||US||TA||Implementar criação de memorando: destinatário, assunto e descrição, arquivos anexos, conferência, número protocolo automático|| ||Essencial ||4h || ||
+||US||TA||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução  || ||Essencial ||8h || ||
+||US||TA||Implementar Trâmite Interno: Caixa Postal com sistema de busca, despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
+
+
