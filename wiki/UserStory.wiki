@@ -64,8 +64,6 @@
 
 <h2>Preparação do ambiente de desenvolvimento</h2>
 
-<br>
-
 == SGDB MySQL, servidor web java Apache Tomcat e repositório de código Google code (SVN)==
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição || ||Essencial ||1h || ||
@@ -74,14 +72,13 @@
 ||US01 ||TA04 ||Cadastramento dos usuários do Tomcat || ||Essencial ||1h || ||
 ||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
 ||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede|| ||Essencial ||1h || ||
+||US01 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
 
 <br>
 
 ==US2==
 
 <h2>Sistema de autenticação</h2>
-
-<br>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US02 ||TA07 ||Criar e povoar o banco de dados de testes|| ||Desejável ||4h || ||
@@ -101,9 +98,8 @@
 
 <br>
 
-<h2> Intranet </h2>
+<h2> Autenticação e Controle:</h2>
 
-<br>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US3||TA16||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
@@ -124,4 +120,4 @@
 <br>
 
 <h2>Tela inicial</h2>
-||US4||TA||Implementar tela inicial do sistema ||||Essencial ||2h || ||
+||US4||TA||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||||Essencial ||2h || ||
