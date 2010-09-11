@@ -1,7 +1,9 @@
 #summary One-sentence summary of this page.
 #labels Phase-Requirements
 
-= Introduction = <br><b>Uma breve descrição do sistema.</b>
+= Introduction =
+
+<br><b>Uma breve descrição do sistema.</b>
 
 "O Sistema de Memorandos On-Line deverá permitir que os usuários possam enviar comunicados, pareceres, solicitações e informativos com segurança, em tempo real, sem necessidade do uso de papel. Deve ser possível localizar um memorando enviado, saber qual foi o roteiro por ele percorrido e todos os despachos que foram adicionados.<br>Recursos como moderação de conteúdo, avisos por e-mail, mensagens de cobrança, transferência de arquivos anexados e agendamento de ausências complementam a eficiência do sistema." 
 
@@ -12,11 +14,7 @@
       - Transferência de arquivos;<br>
       - Notificações por e-mail;<br> 
 
-
-
-
 = Details =
-
 
 <b>Autenticação e controle:</b>
       - Login com autenticação (se possível, recuperar senha pelo e-mail);
@@ -63,7 +61,9 @@
 
 <br>
 
-==US2 - Sistema de autenticação==
+==US2==
+
+<h2>Sistema de autenticação</h2>
 
 <br>
 
