@@ -150,3 +150,6 @@
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US06||TA||Implementar Avisos que serão enviados automaticamente por e-mail|| ||Essencial ||8h || ||
 ||US06||TA||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido anteriormente)|| ||Essencial ||8h || ||
+||US06||TA||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
+
+Transferência de Arquivos Anexados
