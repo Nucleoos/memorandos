@@ -87,17 +87,12 @@
 <h2> Intranet </h2>
 <br>
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US3||TA||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
-||US3||TA||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
-||US3||TA||Implementar controle de Agendamento de Asência || ||Essencial ||4h || ||
-
-||US3||TA||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
-||US3||TA||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
-||US3||TA||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
-
-||US3||TA||Implementar tela de Agendamento de Ausência (view)||||Essencial ||2h || ||
-||US3||TA||Implementar tela de Agendamento de Ausência (view)||||Essencial ||2h || ||
-
+||US3||TA16||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
+||US3||TA17||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
+||US3||TA18||Implementar controle de Agendamento de Asência || ||Essencial ||4h || ||
+||US3||TA19||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
+||US3||TA20||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
+||US3||TA21||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
 <br>
  ----
 
