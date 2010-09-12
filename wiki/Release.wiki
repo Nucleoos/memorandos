@@ -2,11 +2,11 @@
 
 = Introduction =
 
-<b>
+
 As _Releases_ foram assim acordadas com o cliente:<br>
 
 Serão duas _Releases_ sendo a primeira ao final da terceira Iteração e a segunda no final da quinta Iteração.
-</b>
+
 
 = Details =
 
@@ -17,4 +17,3 @@ Serão duas _Releases_ sendo a primeira ao final da terceira Iteração e a segu
 ||Release ||Gerente || Iteração ||Periodo ||
 ||R01 ||Arnaldo Sena || || 20/09/2010 a 03/11/2010||
 ||R02 ||Cláudia Stevam|| ||03/11/2010 a  29/11/2010||
-
