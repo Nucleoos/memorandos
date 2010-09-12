@@ -65,7 +65,7 @@
 <h2>Preparação do ambiente de desenvolvimento</h2>
 
 == SGDB MySQL, servidor web java Apache Tomcat e repositório de código Google code (SVN)==
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição ||<b>I01</b> ||Essencial ||1h || ||
 ||US01 ||TA02 ||Cadastramento dos usuários no MySQL ||IO1 ||Essencial ||1h || ||
 ||US01 ||TA03 ||Instalação e configuração do Apache Tomcat ||I01 ||Essencial ||1h || ||
@@ -82,7 +82,7 @@
 
 <h2>Sistema de autenticação</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US02 ||TA08 ||Criar e povoar o banco de dados de testes||I01 ||Desejável ||4h || ||
 ||US02 ||TA09 ||Criação das _domains classes_ contidas no modelo ||I01 ||Essencial ||2h || ||
 ||US02 ||TA10 ||Configurar tipos de usuários ||I01 ||Essencial ||1h || ||
@@ -105,10 +105,10 @@
 <h2> Autenticação e Controle:</h2>
 
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US03||TA18||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
 ||US03||TA19||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
-||US03||TA20||Implementar controle(_domains classes_) de Agendamento de Asência || ||Essencial ||4h || ||
+||US03||TA20||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
 ||US03||TA21||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
 ||US03||TA22||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
 ||US03||TA23||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
@@ -123,7 +123,7 @@
 
 <h2>Tela inicial</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US04||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I02 ||Essencial ||2h || ||
 ||US04||TA25||Implementar controle para Criar memorandos||<b>I03</b> ||Essencial ||4h || ||
 ||US04||TA26||Implementar modelo para Criar memorandos||I03 ||Essencial ||4h || ||
@@ -140,7 +140,7 @@
 
 <h2>Tramitação do processo</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US05||TA29||Implementar memorandos: individual ou circular; ||I03 ||Essencial ||4h || ||
 ||US05||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I03 ||Essencial ||4h || ||
 ||US05||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||<b>I04</b> ||Essencial ||8h || ||
@@ -157,7 +157,7 @@
 
 <h2>Recursos adicionais</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US06||TA34||Implementar Avisos que serão enviados automaticamente por e-mail||<b>I05</b> ||Essencial ||8h || ||
 ||US06||TA35||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)||I05 ||Essencial ||8h || ||
 ||US06||TA36||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h || ||
