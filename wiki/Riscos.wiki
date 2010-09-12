@@ -7,4 +7,4 @@ Aqui a equipe aponta os riscos antes e durante o desenvovimento do produto.
 
 
 ||Riscos||Prioridade||Responsável||Status||Solução||
-||Poucas reuniões presenciais com o cliente devido o mesmo morar fora||Alta||Arnaldo e Cláudia|| Em andamento||Usar outros meios para esclarecimento de possíveis dúvidas, como email e telefone||
+||Poucas reuniões presenciais com o cliente devido ao mesmo morar fora||Alta||Arnaldo e Cláudia|| Em andamento||Usar outros meios para esclarecimento de possíveis dúvidas, como email e telefone||
