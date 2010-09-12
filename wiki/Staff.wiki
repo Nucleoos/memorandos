@@ -1,14 +1,19 @@
-#summary One-sentence summary of this page.
+#summary Pessoas envolvidas diretamente no projeto
 
-= Introduction =
 
+<b>
 Orientador:
 Leonardo Mendes
+
 
 Desenvolvedores:
 Arnaldo de Sena Santos arnaldoufcg@gmail.com
 Claudia Stevam
 
+Professor Avaliador:
+[http://www.dsc.ufcg.edu.br/~garcia/ Francilene Procópio Garcia D.Sc]
+
+</b>
 
 = Details =
 
