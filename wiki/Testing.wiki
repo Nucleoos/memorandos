@@ -16,9 +16,9 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Pós-condição</b>||Mensagem de erro do sistema ||
 ||<b>Detalhe</b>||O ator não informa login e senha e seleciona ok||
 ||<b>Massa de entrada e saída</b>|| Não se aplica||
-||<b>Ambiente</b>||Sispema Operacional: Windows XP,Vista;</br> Browser firefox 3.6.9, iexplore;<br> Servidor de aplicação: Apache Tomcat 6.0 ||
+||<b>Ambiente</b>||<b>Sispema Operacional</b>: Windows XP,Vista;<br> <b>Browser</b> firefox 3.6.9, iexplore;<br> Servidor de aplicação: Apache Tomcat 6.0 ||
 ||<b>Implementação</b>||Manual ||
-||<b>Iteração</b>||I01 ||
+||<b>Iteração</b>||[Iteration I01] ||
 ||<b>Responsável</b>|| ||
 ||<b>Status</b>||Esperando ||
 
