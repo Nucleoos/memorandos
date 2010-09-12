@@ -14,8 +14,8 @@ Mostra as iterações do projeto.
 ==Iteração==
 
 ||<b>Iteração</b>||<b>[UserStory User Stories]</b>||<b>Tarefas</b>||[Release Release] ||<b>Dt início</b>||<b>Dt limite</b>||<b>Status</b>||
-||I01 ||us ||ta || ||20/09/2010||04/10/2010||Esperando||
-||I02 ||us ||ta || ||04/10/2010||18/10/2010||Esperando||
-||I03 ||us ||ta || ||18/10/2010||03/11/2010||Esperando||
-||I04 ||us ||ta || ||03/11/2010||17/11/2010||Esperando||
-||I05 ||us ||ta || ||17/11/2010||29/11/2010||Esperando||
+||I01 ||us ||ta ||R01 ||20/09/2010||04/10/2010||Esperando||
+||I02 ||us ||ta ||R01 ||04/10/2010||18/10/2010||Esperando||
+||I03 ||us ||ta ||R01 ||18/10/2010||03/11/2010||Esperando||
+||I04 ||us ||ta ||R02 ||03/11/2010||17/11/2010||Esperando||
+||I05 ||us ||ta ||R02 ||17/11/2010||29/11/2010||Esperando||
