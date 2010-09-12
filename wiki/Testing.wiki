@@ -1,14 +1,23 @@
-#summary One-sentence summary of this page.
+#summary Caso de teste
 #labels Phase-QA
 
 = Introduction =
 
-Add your content here.
+Aqui serão apontados os casos de testes para validação do sistema.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==CT01==
+
+<h2>Cenário: Login</h2>
+
+||<b>Pré-condição</b>|| ||
+||<b>Pós-condição</b>|| ||
+||<b>Detalhe</b>|| ||
+||<b>Massa de entrada e saída</b>|| ||
+||<b>Ambiente</b>|| ||
+||<b>Implementação</b>|| ||
+||<b>Iteração</b>|| ||
+||<b>Responsável</b>|| ||
+||<b>Status</b>||
