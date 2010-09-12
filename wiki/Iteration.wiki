@@ -20,4 +20,4 @@ Mostra as iterações do projeto.
 ||I04 ||us ||ta31 a ct10 ||r02 ||03/11/2010||17/11/2010||Esperando||
 ||I05 ||us ||ta33 a ct12 ||r02 ||17/11/2010||29/11/2010||Esperando||
 
-ct - Caso de Teste
+<b>ct</b> - Caso de Teste
