@@ -3,14 +3,12 @@
 = Introduction =
 
 Reuniões semanais da equipe e assuntos abordados nas mesmas.
+----
+
+=Reuniões semanais=
 
 ||Dia da semana||Horário||Local||Participantes||
 ||   ||||    ||||    ||||LCC2||||Arnaldo e Cláudia||
 ||   ||||    ||||    ||||LCC2||||Arnaldo e Cláudia||
 ||   ||||    ||||    ||||LCC2||||Arnaldo,Cláudia e Cliente||
 
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
