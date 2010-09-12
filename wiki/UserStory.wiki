@@ -56,7 +56,7 @@
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US00 ||TA00 || - Estudar o framework Grails e liguagem Groovy.<br> - Revisar UML<br> - Revisar Design Patterner|| ||Essencial ||24h || ||
-
+||TEMPO TOTAL|||||||||||| ||
 
 <br>
 
