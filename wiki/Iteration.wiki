@@ -8,13 +8,14 @@ Mostra as iterações do projeto.
 
 = Details =
 
-Aqui mostramos quem faz o quê de cada tarefa exposta pelo US (User Stories).
+<h3>Aqui mostramos a unidade de planejamento detalhado</h3>
 
 
 == I00 ==
 
-||Iteração ||US ||TA ||Responsável||Dt início||DT limite||Status||
-||Iteração ||US ||TA ||Responsável||Dt início||DT limite||Status||
-||Iteração ||US ||TA ||Responsável||Dt início||DT limite||Status||
-||Iteração ||US ||TA ||Responsável||Dt início||DT limite||Status||
-||Iteração ||US ||TA ||Responsável||Dt início||DT limite||Status||
+||Iteração ||US ||Tarefas ||Dt início||DT limite||Status||
+||I01 ||us ||ta ||20/09/2010||04/10/2010||Esperando||
+||I02 ||us ||ta ||04/10/2010||18/10/2010||Esperando||
+||I03 ||us ||ta ||18/10/2010||03/11/2010||Esperando||
+||I04 ||us ||ta ||03/11/2010||17/11/2010||Esperando||
+||I05 ||us ||ta ||17/11/2010||29/11/2010||Esperando||
