@@ -1,30 +1,17 @@
 #summary Pessoas envolvidas diretamente no projeto
 
 
-<b>
 
-<h3>
-Professor Avaliador:
+
+
+<b>Professora avaliadora:</b><br>
 [http://www.dsc.ufcg.edu.br/~garcia/ Francilene Procópio Garcia D.Sc]
 
 
-Orientador:
-Leonardo Mendes            [leonardo.cid@gmail.com]
+<b>Orientador:</b><br>Leonardo Mendes<br>leonardo.cid@gmail.com
 
 
-Desenvolvedores:
-Arnaldo de Sena Santos     arnaldoufcg@gmail.com
-Claudia Stevam             claudiastevam@gmail.com
+<b>Desenvolvedores:</b><br>
+||Arnaldo de Sena Santos||arnaldoufcg@gmail.com||
+||Claudia Stevam||claudiastevam@gmail.com||
 
-Professor Avaliador:
-[http://www.dsc.ufcg.edu.br/~garcia/ Francilene Procópio Garcia D.Sc]
-
-</h3>
-</b>
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
