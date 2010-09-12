@@ -56,7 +56,7 @@
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US00 ||TA00 || - Estudar o framework Grails e liguagem Groovy.<br> - Revisar UML<br> - Revisar Design Patterner|| ||Essencial ||24h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||24h || ||
 
 <br>
 
@@ -163,4 +163,4 @@
 ||US06||TA35||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
 ||US06 ||CT11 ||Testes de unidades || ||Essencial ||2h || ||
 ||US06 ||CT12 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||32 || ||
+||TEMPO TOTAL|||||||| ||32h || ||
