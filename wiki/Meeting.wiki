@@ -12,6 +12,7 @@ Reuniões semanais da equipe e assuntos abordados nas mesmas.
 ||   ||||    ||||    ||||LCC2||||Arnaldo e Cláudia||
 ||   ||||    ||||    ||||LCC2||||Arnaldo,Cláudia e Cliente||
 
+----
 
 ==Assuntos abordados==
 ||Dia||||Horário||||LOcal||||Presentes||||Questões apresentadas||||Conclusões||
