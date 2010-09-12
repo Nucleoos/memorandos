@@ -2,17 +2,24 @@
 
 
 <b>
+
+<h3>
+Professor Avaliador:
+[http://www.dsc.ufcg.edu.br/~garcia/ Francilene Procópio Garcia D.Sc]
+
+
 Orientador:
-Leonardo Mendes
+Leonardo Mendes            leonardo.cid@gmail.com
 
 
 Desenvolvedores:
-Arnaldo de Sena Santos arnaldoufcg@gmail.com
-Claudia Stevam
+Arnaldo de Sena Santos     arnaldoufcg@gmail.com
+Claudia Stevam             claudiastevam@gmail.com
 
 Professor Avaliador:
 [http://www.dsc.ufcg.edu.br/~garcia/ Francilene Procópio Garcia D.Sc]
 
+</h3>
 </b>
 
 = Details =
