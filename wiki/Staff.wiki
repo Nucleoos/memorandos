@@ -9,7 +9,7 @@ Professor Avaliador:
 
 
 Orientador:
-Leonardo Mendes            leonardo.cid@gmail.com
+Leonardo Mendes            [leonardo.cid@gmail.com]
 
 
 Desenvolvedores:
