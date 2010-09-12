@@ -21,4 +21,3 @@ Mostra as iterações do projeto.
 ||I05 ||[UserStory#US06 US06]||ta33 a ct12 ||re02 ||17/11/2010||29/11/2010||Esperando||
 
 <b>ct</b> - Caso de Teste
-[WikiSyntax#Wiki-style_markup]
