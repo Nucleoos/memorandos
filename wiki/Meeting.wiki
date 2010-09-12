@@ -1,14 +1,13 @@
 #summary Reuniões.
 
-= Introduction =
+= Introdução =
 
 Reuniões semanais da equipe e assuntos abordados nas mesmas.
 ----
 
-=Reuniões semanais=
+==Reuniões semanais==
 
 ||Dia da semana||Horário||Local||Participantes||
 ||   ||||    ||||    ||||LCC2||||Arnaldo e Cláudia||
 ||   ||||    ||||    ||||LCC2||||Arnaldo e Cláudia||
 ||   ||||    ||||    ||||LCC2||||Arnaldo,Cláudia e Cliente||
-
