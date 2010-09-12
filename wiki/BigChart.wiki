@@ -1,4 +1,4 @@
-#Sumary Gráfico Gerencial.
+#sumary Gráfico Gerencial.
 
 = Introduction =
 
