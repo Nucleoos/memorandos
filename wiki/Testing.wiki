@@ -12,12 +12,24 @@ Aqui serão apontados os casos de testes para validação do sistema.
 
 <h2>Cenário: Login</h2>
 
-||<b>Pré-condição</b>|| ||
-||<b>Pós-condição</b>|| ||
-||<b>Detalhe</b>|| ||
-||<b>Massa de entrada e saída</b>|| ||
-||<b>Ambiente</b>|| ||
-||<b>Implementação</b>|| ||
-||<b>Iteração</b>|| ||
+||<b>Pré-condição</b>||Estar na tela de login do sistema ||
+||<b>Pós-condição</b>||Mensagem de erro do sistema ||
+||<b>Detalhe</b>||O ator não informa login e senha e seleciona ok||
+||<b>Massa de entrada e saída</b>|| Não se aplica||
+||<b>Ambiente</b>||Sispema Operacional: Windows XP,Vista;</br> Browser firefox 3.6.9, iexplore;<br> Servidor de aplicação: Apache Tomcat 6.0 ||
+||<b>Implementação</b>||Manual ||
+||<b>Iteração</b>||I01 ||
 ||<b>Responsável</b>|| ||
-||<b>Status</b>||
+||<b>Status</b>||Esperando ||
+
+
+
+||<b>Pré-condição</b>||Estar na tela de login do sistema ||
+||<b>Pós-condição</b>||Mensagem de erro do sistema ||
+||<b>Detalhe</b>||O ator não informa login e senha e seleciona ok||
+||<b>Massa de entrada e saída</b>|| Não se aplica||
+||<b>Ambiente</b>||Sispema Operacional: Windows XP,Vista;</br> Browser firefox 3.6.9, iexplore;<br> Servidor de aplicação: Apache Tomcat 6.0||
+||<b>Implementação</b>||Manual ||
+||<b>Iteração</b>||I01||
+||<b>Responsável</b>|| ||
+||<b>Status</b>||Esperando ||
