@@ -55,7 +55,7 @@
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US00 ||TA00 || - Estudar o framework Grails e liguagem Groovy.<br> - Revisar UML<br> - Revisar Design Patterner|| ||Essencial ||24h || ||
+||US00 ||TA00 || - Estudar o framework Grails e liguagem Groovy.<br> - Revisar UML<br> - Revisar Design Patterner||I00 ||Essencial ||24h || ||
 ||TEMPO TOTAL|||||||| ||24h || ||
 
 <br>
@@ -66,15 +66,15 @@
 
 == SGDB MySQL, servidor web java Apache Tomcat e repositório de código Google code (SVN)==
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição || ||Essencial ||1h || ||
-||US01 ||TA02 ||Cadastramento dos usuários no MySQL || ||Essencial ||1h || ||
-||US01 ||TA03 ||Instalação e configuração do Apache Tomcat || ||Essencial ||1h || ||
-||US01 ||TA04 ||Cadastramento dos usuários do Tomcat || ||Essencial ||1h || ||
-||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
-||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede|| ||Essencial ||1h || ||
-||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
-||US01 ||CT01 ||Testes de unidades || ||Essencial ||2h || ||
-||US01 ||CT02 ||Teste de aceitação || ||Essencial ||2h || ||
+||US01 ||TA01 ||Instalação e configuração do MySQL no servidor da instituição ||<b>I01</b> ||Essencial ||1h || ||
+||US01 ||TA02 ||Cadastramento dos usuários no MySQL ||IO1 ||Essencial ||1h || ||
+||US01 ||TA03 ||Instalação e configuração do Apache Tomcat ||I01 ||Essencial ||1h || ||
+||US01 ||TA04 ||Cadastramento dos usuários do Tomcat ||I01 ||Essencial ||1h || ||
+||US01 ||TA05 ||Criação da página do projeto no Google Code ||I01 ||Desejável ||1h ||0.5h ||
+||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede||I01 ||Essencial ||1h || ||
+||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.||I01 ||Essencial ||1h || ||
+||US01 ||CT01 ||Testes de unidades ||I01 ||Essencial ||2h || ||
+||US01 ||CT02 ||Teste de aceitação ||I01 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||11h || ||
 <br>
 
@@ -83,18 +83,18 @@
 <h2>Sistema de autenticação</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US02 ||TA08 ||Criar e povoar o banco de dados de testes|| ||Desejável ||4h || ||
-||US02 ||TA09 ||Criação das _domains classes_ contidas no modelo || ||Essencial ||2h || ||
-||US02 ||TA10 ||Configurar tipos de usuários || ||Essencial ||1h || ||
-||US02 ||TA11 ||Configurar tipos de documentos || ||Essencial ||1h || ||
-||US02 ||TA12 ||Implementar algoritmo de criptografia de dados || ||Essencial ||2h || ||
-||US02 ||TA13 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha || ||Desejável ||2h || ||
-||US02 ||TA14 ||Formatação dos campos de login|| ||Desejável ||2h || ||
-||US02 ||TA15 ||Criação da página de login (view)|| ||Essencial ||2h || ||
-||US02 ||TA16 ||Tratamento de erros de login|| ||Essencial ||2h || ||
-||US02 ||TA17 ||Implementar sistema de login/logout do usuário|| ||Essencial ||2h || ||
-||US02 ||CT03 ||Teste de unidade || ||Essencial ||2h || ||
-||US02 ||CT04 ||Teste de aceitação || ||Essencial ||2h || ||
+||US02 ||TA08 ||Criar e povoar o banco de dados de testes||I01 ||Desejável ||4h || ||
+||US02 ||TA09 ||Criação das _domains classes_ contidas no modelo ||I01 ||Essencial ||2h || ||
+||US02 ||TA10 ||Configurar tipos de usuários ||I01 ||Essencial ||1h || ||
+||US02 ||TA11 ||Configurar tipos de documentos ||I01 ||Essencial ||1h || ||
+||US02 ||TA12 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
+||US02 ||TA13 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||2h || ||
+||US02 ||TA14 ||Formatação dos campos de login||I01 ||Desejável ||2h || ||
+||US02 ||TA15 ||Criação da página de login (view)||I01 ||Essencial ||2h || ||
+||US02 ||TA16 ||Tratamento de erros de login||I01 ||Essencial ||2h || ||
+||US02 ||TA17 ||Implementar sistema de login/logout do usuário||<b>I02</b> ||Essencial ||2h || ||
+||US02 ||CT03 ||Teste de unidade ||I02 ||Essencial ||2h || ||
+||US02 ||CT04 ||Teste de aceitação ||I02 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||24h || ||
 <br>
 
@@ -106,14 +106,14 @@
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US03||TA18||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
-||US03||TA19||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
+||US03||TA18||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
+||US03||TA19||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
 ||US03||TA20||Implementar controle(_domains classes_) de Agendamento de Asência || ||Essencial ||4h || ||
-||US03||TA21||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
-||US03||TA22||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
-||US03||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
-||US03 ||CT05 ||Testes de unidades || ||Essencial ||2h || ||
-||US03 ||CT06 ||Teste de aceitação || ||Essencial ||2h || ||
+||US03||TA21||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
+||US03||TA22||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
+||US03||TA23||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
+||US03 ||CT05 ||Testes de unidades ||I02 ||Essencial ||2h || ||
+||US03 ||CT06 ||Teste de aceitação ||I02 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||20h || ||
 <br>
 
@@ -124,13 +124,13 @@
 <h2>Tela inicial</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US04||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  || ||Essencial ||2h || ||
-||US04||TA25||Implementar controle para Criar memorandos|| ||Essencial ||4h || ||
-||US04||TA26||Implementar modelo para Criar memorandos|| ||Essencial ||4h || ||
-||US04||TA27||Implementar controle para Localizar Memorandos|| ||Essencial ||4h || ||
-||US04||TA28||Implementar modelo para Localizar Memorandos|| ||Essencial ||4h || ||
-||US04 ||CT07 ||Testes de unidades || ||Essencial ||2h || ||
-||US04 ||CT08 ||Teste de aceitação || ||Essencial ||2h || ||
+||US04||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I02 ||Essencial ||2h || ||
+||US04||TA25||Implementar controle para Criar memorandos||<b>I03</b> ||Essencial ||4h || ||
+||US04||TA26||Implementar modelo para Criar memorandos||I03 ||Essencial ||4h || ||
+||US04||TA27||Implementar controle para Localizar Memorandos||I03 ||Essencial ||4h || ||
+||US04||TA28||Implementar modelo para Localizar Memorandos||I03 ||Essencial ||4h || ||
+||US04 ||CT07 ||Testes de unidades ||I03 ||Essencial ||2h || ||
+||US04 ||CT08 ||Teste de aceitação ||I03 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||22h || ||
 <br>
 
@@ -141,13 +141,13 @@
 <h2>Tramitação do processo</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US05||TA29||Implementar memorandos: individual ou circular; || ||Essencial ||4h || ||
-||US05||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático|| ||Essencial ||4h || ||
-||US05||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  || ||Essencial ||8h || ||
-||US05||TA32||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
-||US05||TA33||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais|| ||Essencial ||8h || ||
-||US05 ||CT09 ||Testes de unidades || ||Essencial ||2h || ||
-||US05 ||CT10 ||Teste de aceitação || ||Essencial ||2h || ||
+||US05||TA29||Implementar memorandos: individual ou circular; ||I03 ||Essencial ||4h || ||
+||US05||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I03 ||Essencial ||4h || ||
+||US05||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||<b>I04</b> ||Essencial ||8h || ||
+||US05||TA32||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || ||
+||US05||TA33||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || ||
+||US05 ||CT09 ||Testes de unidades ||I04 ||Essencial ||2h || ||
+||US05 ||CT10 ||Teste de aceitação ||I04 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||36h || ||
 <br>
 
@@ -158,9 +158,9 @@
 <h2>Recursos adicionais</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US06||TA34||Implementar Avisos que serão enviados automaticamente por e-mail|| ||Essencial ||8h || ||
-||US06||TA35||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)|| ||Essencial ||8h || ||
-||US06||TA36||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
-||US06 ||CT11 ||Testes de unidades || ||Essencial ||2h || ||
-||US06 ||CT12 ||Teste de aceitação || ||Essencial ||2h || ||
+||US06||TA34||Implementar Avisos que serão enviados automaticamente por e-mail||<b>I05</b> ||Essencial ||8h || ||
+||US06||TA35||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)||I05 ||Essencial ||8h || ||
+||US06||TA36||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h || ||
+||US06 ||CT11 ||Testes de unidades ||I05 ||Essencial ||2h || ||
+||US06 ||CT12 ||Teste de aceitação ||I05 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||32h || ||
