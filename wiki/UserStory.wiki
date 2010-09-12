@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Uses Stories.
 #labels Phase-Requirements
 
 = Introduction =
