@@ -14,11 +14,11 @@ Mostra as iterações do projeto.
 ==Iteração==
 
 ||<b>Iteração</b>||<b>[UserStory User Stories]</b>||<b>Tarefas</b>||[Release Release] ||<b>Dt início</b>||<b>Dt limite</b>||<b>Status</b>||
-||I01 ||us1 us1, us2 ||ta01 a ta16 ||re01 ||20/09/2010||04/10/2010||Esperando||
-||I02 ||us2, us3, us4 ||ta17 a ta24 ||re01 ||04/10/2010||18/10/2010||Esperando||
-||I03 ||us4, us5 ||ta25 a ta30 ||re01 ||18/10/2010||03/11/2010||Esperando||
+||I01 ||[UserStory#US01 US01], [UserStory#US02 US02] ||ta01 a ta16 ||re01 ||20/09/2010||04/10/2010||Esperando||
+||I02 ||[UserStory#US02 US02], [UserStory#US03 US03], [UserStory#US04 US04]||ta17 a ta24 ||re01 ||04/10/2010||18/10/2010||Esperando||
+||I03 ||[UserStory#US04 US04], [UserStory#US05 US05]||ta25 a ta30 ||re01 ||18/10/2010||03/11/2010||Esperando||
 ||I04 ||[UserStory#US05 US05] ||ta31 a ct10 ||re02 ||03/11/2010||17/11/2010||Esperando||
-||I05 ||us6 ||ta33 a ct12 ||re02 ||17/11/2010||29/11/2010||Esperando||
+||I05 ||[UserStory#US06 US06]||ta33 a ct12 ||re02 ||17/11/2010||29/11/2010||Esperando||
 
 <b>ct</b> - Caso de Teste
 [WikiSyntax#Wiki-style_markup]
