@@ -10,19 +10,19 @@ Aqui serão apontados os casos de testes para validação do sistema.
 
 ==CT01==
 
-<h2>Cenário: Login</h2>
+<h2>Cenário: Login</h2><br><h3>Teste de Campo Obrigatório</h3>
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
 ||<b>Pós-condição</b>||Mensagem de erro do sistema ||
-||<b>Detalhe</b>||O ator não informa login e senha e seleciona ok||
+||<b>Detalhe</b>||O ator não informa login e senha e seleciona ok<br>O sistema apresenta mensagem "Os campos de login e senha devem ser informados" na tela de login||
 ||<b>Massa de entrada e saída</b>|| Não se aplica||
 ||<b>Ambiente</b>||<b>Sispema Operacional</b>: Windows XP,Vista;<br> <b>Browser</b> firefox 3.6.9, iexplore;<br><b>Servidor de aplicação</b>: Apache Tomcat 6.0 ||
 ||<b>Implementação</b>||Manual ||
-||<b>Iteração</b>||[Iteration I01] ||
+||<b>Iteração</b>||[Iteration I01]||
 ||<b>Responsável</b>|| ||
 ||<b>Status</b>||Esperando ||
 
-<h2>Cenário: Login</h2>
+<h3>Login inválido</h3>
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
 ||<b>Pós-condição</b>||Mensagem de erro do sistema ||
