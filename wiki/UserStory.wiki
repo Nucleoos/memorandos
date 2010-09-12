@@ -54,7 +54,7 @@
 <h2> Estudos de ferramentas relevantes ao projeto  </h2>
 
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>Iteração</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
 ||US00 ||TA00 || - Estudar o framework Grails e liguagem Groovy.<br> - Revisar UML<br> - Revisar Design Patterner||I00 ||Essencial ||24h || ||
 ||TEMPO TOTAL|||||||| ||24h || ||
 
