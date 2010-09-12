@@ -73,7 +73,7 @@
 ||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
 ||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede|| ||Essencial ||1h || ||
 ||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
-||US01 ||CT01 ||Teste de unidade || ||Essencial ||2h || ||
+||US01 ||CT01 ||Testes de unidades || ||Essencial ||2h || ||
 ||US01 ||CT02 ||Teste de aceitação || ||Essencial ||2h || ||
 
 <br>
@@ -112,9 +112,9 @@
 ||US03||TA21||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
 ||US03||TA22||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
 ||US03||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
-||US03 ||CT05 ||Teste de unidade || ||Essencial ||2h || ||
-||US03 ||CT05 ||Teste de aceitação || ||Essencial ||2h || ||
-||US03 ||CT07 ||Teste de unidade || ||Essencial ||2h || ||
+||US03 ||CT05 ||Testes de unidades || ||Essencial ||2h || ||
+||US03 ||CT06 ||Teste de aceitação || ||Essencial ||2h || ||
+||US03 ||CT07 ||Teste de  || ||Essencial ||2h || ||
 
 
 
@@ -132,6 +132,8 @@
 ||US04||TA25||Implementar modelo para Criar memorandos|| ||Essencial ||4h || ||
 ||US04||TA26||Implementar controle para Localizar Memorandos|| ||Essencial ||4h || ||
 ||US04||TA27||Implementar modelo para Localizar Memorandos|| ||Essencial ||4h || ||
+||US04 ||CT08 ||Testes de unidades || ||Essencial ||2h || ||
+||US04 ||CT09 ||Teste de aceitação || ||Essencial ||2h || ||
 
 <br>
 
@@ -147,6 +149,8 @@
 ||US05||TA30||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  || ||Essencial ||8h || ||
 ||US05||TA31||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  || ||Essencial ||8h || ||
 ||US05||TA32||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais|| ||Essencial ||8h || ||
+||US05 ||CT10 ||Testes de unidades || ||Essencial ||2h || ||
+||US05 ||CT11 ||Teste de aceitação || ||Essencial ||2h || ||
 
 <br>
 
@@ -160,3 +164,5 @@
 ||US06||TA33||Implementar Avisos que serão enviados automaticamente por e-mail|| ||Essencial ||8h || ||
 ||US06||TA34||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)|| ||Essencial ||8h || ||
 ||US06||TA35||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
+||US06 ||CT12 ||Testes de unidades || ||Essencial ||2h || ||
+||US06 ||CT13 ||Teste de aceitação || ||Essencial ||2h || ||
