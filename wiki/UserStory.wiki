@@ -75,7 +75,7 @@
 ||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
 ||US01 ||CT01 ||Testes de unidades || ||Essencial ||2h || ||
 ||US01 ||CT02 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||11h || ||
 <br>
 
 ==US02==
@@ -95,7 +95,7 @@
 ||US02 ||TA17 ||Implementar sistema de login/logout do usuário|| ||Essencial ||2h || ||
 ||US02 ||CT03 ||Teste de unidade || ||Essencial ||2h || ||
 ||US02 ||CT04 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||24h || ||
 <br>
 
 ==US03==
@@ -114,7 +114,7 @@
 ||US03||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
 ||US03 ||CT05 ||Testes de unidades || ||Essencial ||2h || ||
 ||US03 ||CT06 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||20h || ||
 <br>
 
 ==US04==
@@ -131,7 +131,7 @@
 ||US04||TA27||Implementar modelo para Localizar Memorandos|| ||Essencial ||4h || ||
 ||US04 ||CT07 ||Testes de unidades || ||Essencial ||2h || ||
 ||US04 ||CT08 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||22h || ||
 <br>
 
 ==US05==
@@ -148,7 +148,7 @@
 ||US05||TA32||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais|| ||Essencial ||8h || ||
 ||US05 ||CT09 ||Testes de unidades || ||Essencial ||2h || ||
 ||US05 ||CT10 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||36h || ||
 <br>
 
 ==US06==
@@ -163,4 +163,4 @@
 ||US06||TA35||Implementar Transferência de Arquivos Anexados|| ||Essencial ||12h || ||
 ||US06 ||CT11 ||Testes de unidades || ||Essencial ||2h || ||
 ||US06 ||CT12 ||Teste de aceitação || ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||24 || ||
+||TEMPO TOTAL|||||||| ||32 || ||
