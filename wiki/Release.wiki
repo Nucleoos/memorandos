@@ -1,13 +1,20 @@
-#Plano de _Release_.
+#Plano de Release.
 
 = Introduction =
 
-Add your content here.
+<b>
+As _Releases_ foram assim acordadas com o cliente:<br>
 
+Serão duas _Releases_ sendo a primeira ao final da terceira Iteração e a segunda no final da quinta Iteração.
+</b>
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+==Release==
+
+
+||Release ||Gerente || Iteração ||Periodo ||
+||R01 ||Arnaldo Sena || || 20/09/2010 a 03/11/2010||
+||R02 ||Cláudia Stevam|| ||03/11/2010 a  29/11/2010||
+
