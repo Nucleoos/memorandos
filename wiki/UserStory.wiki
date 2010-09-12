@@ -73,6 +73,8 @@
 ||US01 ||TA05 ||Criação da página do projeto no Google Code || ||Desejável ||1h ||0.5h ||
 ||US01 ||TA06 ||Estimar tempo de envio e recebimento de dados na rede|| ||Essencial ||1h || ||
 ||US01 ||TA07 ||Ter acesso ao diretório do cliente onde será instalado o programa. Releases.|| ||Essencial ||1h || ||
+||US01 ||CT01 ||Teste de unidade || ||Essencial ||2h || ||
+||US01 ||CT02 ||Teste de aceitação || ||Essencial ||2h || ||
 
 <br>
 
@@ -91,6 +93,8 @@
 ||US02 ||TA15 ||Criação da página de login (view)|| ||Essencial ||2h || ||
 ||US02 ||TA16 ||Tratamento de erros de login|| ||Essencial ||2h || ||
 ||US02 ||TA17 ||Implementar sistema de login/logout do usuário|| ||Essencial ||2h || ||
+||US02 ||CT03 ||Teste de unidade || ||Essencial ||2h || ||
+||US02 ||CT04 ||Teste de aceitação || ||Essencial ||2h || ||
 
 <br>
 
@@ -102,12 +106,17 @@
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>Iteracao</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US3||TA18||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
-||US3||TA19||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
-||US3||TA20||Implementar controle(_domains classes_) de Agendamento de Asência || ||Essencial ||4h || ||
-||US3||TA21||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
-||US3||TA22||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
-||US3||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
+||US03||TA18||Implementar tela de Agendamento de Ausência (view)|| ||Essencial ||2h || ||
+||US03||TA19||Implementar modelo de Agendamento de Asência || ||Essencial ||4h || ||
+||US03||TA20||Implementar controle(_domains classes_) de Agendamento de Asência || ||Essencial ||4h || ||
+||US03||TA21||Implementar tela Alteração de Senha (view)|| ||Essencial ||2h || ||
+||US03||TA22||Implementar modelo para Alteração de Senha|| ||Essencial ||2h || ||
+||US03||TA23||Implementar controle para Alteração de Senha|| ||Essencial ||2h || ||
+||US03 ||CT05 ||Teste de unidade || ||Essencial ||2h || ||
+||US03 ||CT05 ||Teste de aceitação || ||Essencial ||2h || ||
+||US03 ||CT07 ||Teste de unidade || ||Essencial ||2h || ||
+
+
 
 <br>
 
