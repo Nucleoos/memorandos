@@ -12,6 +12,6 @@
 
 
 <b>Desenvolvedores:</b><br>
-||Arnaldo de Sena Santos||arnaldoufcg@gmail.com||
-||Claudia Stevam||claudiastevam@gmail.com||
-
+||Nome||e-mail||Gerência||
+||Arnaldo de Sena Santos||arnaldoufcg@gmail.com||20/09/2010 a 03/11/2010||
+||Claudia Stevam||claudiastevam@gmail.com||04/11/2010 a 29/11/2010||
