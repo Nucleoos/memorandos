@@ -11,7 +11,7 @@ Mostra as iterações do projeto.
 <h3>Aqui mostramos a unidade de planejamento detalhado</h3>
 
 
-== I00 ==
+==Iteração==
 
 ||<b>Iteração</b>||<b>User Stories</b>||<b>Tarefas</b>||<b>Dt início</b>||<b>Dt limite</b>||<b>Status</b>||
 ||I01 ||us ||ta ||20/09/2010||04/10/2010||Esperando||
