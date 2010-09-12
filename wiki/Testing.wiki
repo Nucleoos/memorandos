@@ -35,7 +35,17 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Status</b>||Esperando ||
 
 
+<h3>Senha inválida</h3>
 
+||<b>Pré-condição</b>||Estar na tela de login do sistema ||
+||<b>Pós-condição</b>||Mensagem de erro do sistema ||
+||<b>Detalhe</b>||O ator não informa senha inválida.<br>O sistema apresenta a mensagem "Login ou senha informados não são válidos"||
+||<b>Massa de entrada e saída</b>||Uma senha válida e login inválido<br>Os sistema apresenta a mensagem "Login ou senha informados não são válidos"||
+||<b>Ambiente</b>||<b>Sispema Operacional</b>: Windows XP,Vista;<br> <b>Browser</b> firefox 3.6.9, iexplore;<br><b>Servidor de aplicação</b>: Apache Tomcat 6.0 ||
+||<b>Implementação</b>||Manual ||
+||<b>Iteração</b>||[Iteration I01] ||
+||<b>Responsável</b>|| ||
+||<b>Status</b>||Esperando ||
 
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
