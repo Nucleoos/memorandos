@@ -4,10 +4,10 @@
 
 ==Descrevemos aqui os requisitos funcionais.==
 
-<b>Esta seção descreve os requisitos funcionais e não funcionais do sistema,  sendo cada um classificado por  prioridade a saber:<br></b>
-•<b>Essencial</b>: requisitos sem os quais o sistema não poderá funcionar;
-•<b>Importante</b>: requisitos que deverão ter no sistema, mas que o mesmo poderá funcionar sem eles;
-•<b>Desejável</b>: requisitos que não compromete o sistema e poderão ser implantados por último.
+<b>Esta seção descreve os requisitos funcionais e não funcionais do sistema,  sendo cada um classificado por  prioridade a saber:</b><br>
+•<b>Essencial</b>: requisitos sem os quais o sistema não poderá funcionar;<br>
+•<b>Importante</b>: requisitos que deverão ter no sistema, mas que o mesmo poderá funcionar sem eles;<br>
+•<b>Desejável</b>: requisitos que não compromete o sistema e poderão ser implantados por último.<br>
 
 ----
 ----
