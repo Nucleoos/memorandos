@@ -13,7 +13,7 @@ Requisitos não funcionais levantados pelo cliente
 ||RNF03 ||Disponibilidade ||O sistema ficará disponível 24h por dia e 7 dias na semana ||Essencial ||
 ||RNF04 ||Segurança ||O sistema deve prover acesso seguro via rede com uso de protocolos de segurança como https e os dados devem ser criptografados ||Essencial ||
 ||RNF05 ||Portabilidade ||O sistema desenvolvido será independente do SO.||Essencial ||
-||RNF06 ||Tempo de resposta ||Definição do limite carga de requisições simultâneas apartir do tempo médio estimado de cada solicitação. Para isso devemos ter dados do tempo de tráfego da rede, controle de fluxo e de congestionamento ||Essencial ||
+||RNF06 ||Tempo de resposta ||Definição do limite carga de requisições simultâneas a partir do tempo médio estimado de cada solicitação. Para isso devemos ter dados do tempo de tráfego da rede, controle de fluxo e de congestionamento ||Essencial ||
 
 ----
 ----
@@ -22,4 +22,4 @@ Requisitos não funcionais levantados pelo cliente
 
 ||RNF ||Descrição ||Resumo ||Prioridade ||
 ||RNF07 ||Padrão de Desenvolvimento ||A arquitetura do sistema segue o padrão MVC e será utilizado UML 2.0 para geração de diagramas referentes ao sistemas nas sua mais diversas visões (Logical, Implementation, Process, Use-Case, Deployment). Como ferramenta de desenvolvimento de código utilizaremos o framework open source [http://www.grails.org/ Grails] com uso de linguagens Groovy e Java2EE e banco de dados MySQL.  ||Essencial ||
-||RNF08 ||Processo de Desenvolvimento ||Será adotado o processo de desenvolvimento [http://www.dsc.ufcg.edu.br/~jacques/cursos/2002.2/projii/xp1/xp1.html XP1] por ser ágil. Maiores detalhes podem ser adquidos no site do [http://www.dsc.ufcg.edu.br/~garcia/cursos/ProjetoI/ Projeto I] da professora Dra. Francilene Garcia  ||Essencial ||
+||RNF08 ||Processo de Desenvolvimento ||Será adotado o processo de desenvolvimento [http://www.dsc.ufcg.edu.br/~jacques/cursos/2002.2/projii/xp1/xp1.html XP1] por ser ágil. Maiores detalhes podem ser adquiridos no site do [http://www.dsc.ufcg.edu.br/~garcia/cursos/ProjetoI/ Projeto I] da professora Dra. Francilene Garcia  ||Essencial ||
