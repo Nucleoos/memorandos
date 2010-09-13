@@ -12,10 +12,10 @@
 ==Requisitos necessários para acesso do usuário ao sistema==
 
 ||<b>RF</b> ||<b>Descrição</b> ||<b>Resumo</b> ||<b>Prioridade</b> ||
-||RF01 ||Solicitação de acesso ao sistema || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail.|| Alta ||
-||RF02 ||Acesso ao Sistema ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema. || Alta ||
-||RF03 ||Primeiro Acesso ||Por questão de segurança, o usuário será notificado para alterar sua senha de acesso ao sistema. || Alta ||
-||RF04 ||Vinculação ao Setor ||O usuário será obrigatoriamente vinculado ao setor que trabalha com o intuito de receber todos os documentos destinados a este setor.||Alta ||
+||RF01 ||Solicitação de acesso ao sistema || O cadastro de usuários será realizado pelo administrador do sistema. Este deverá informar dados pessoais de cada usuário como nome, matrícula na instituição, nível de acesso, setor onde trabalha e e-mail.|| Essencial ||
+||RF02 ||Acesso ao Sistema ||O usuário devidamente cadastrado deverá informar o login(que pode ser a própria matrícula) e senha para acessar o sistema. || Essencial||
+||RF03 ||Primeiro Acesso ||Por questão de segurança, o usuário será notificado para alterar sua senha de acesso ao sistema. || Essencial||
+||RF04 ||Vinculação ao Setor ||O usuário será obrigatoriamente vinculado ao setor que trabalha com o intuito de receber todos os documentos destinados a este setor.||Essencial||
 
 ----
 ----
@@ -23,18 +23,18 @@
 =Gerenciamento dos Setores da Instituição=
 ==Requisitos necessários para gerenciamento dos setores da instituição==
 ||<b>RF</b> ||<b>Descrição</b> ||<b>Resumo</b> ||<b>Prioridade</b> ||
-||RF05 ||Cadastro de Setores ||O administrador do sistema deverá cadastrar os setores de acordo com a identificação de cada um. Siglas, nomes e descrição são dados essenciais para identificação. ||Alta ||
-||RF06 ||Desativação de Setores ||O administrador quando autorizado poderá desativar o setor sem excluí-lo, pois os documento destinados a este setor deverá ser mantido. Entretando não deverá existir nenhum funcionário alocado neste.||Alta ||
-||RF07 ||Exclusão de Setores ||O administrador quando autorizado poderá excluir o setor caso não haja nenhum documento destinado a ele, assim como usuários cadastrados neste.||Alta ||
+||RF05 ||Cadastro de Setores ||O administrador do sistema deverá cadastrar os setores de acordo com a identificação de cada um. Siglas, nomes e descrição são dados essenciais para identificação. ||Essencial||
+||RF06 ||Desativação de Setores ||O administrador quando autorizado poderá desativar o setor sem excluí-lo, pois os documento destinados a este setor deverá ser mantido. Entretando não deverá existir nenhum funcionário alocado neste.||Essencial||
+||RF07 ||Exclusão de Setores ||O administrador quando autorizado poderá excluir o setor caso não haja nenhum documento destinado a ele, assim como usuários cadastrados neste.||Essencial||
 
 ----
 ----
 
 =Gerenciamento de Documentos=
 ==Requisitos necessários para gerenciamento de documentos==
-||RF08 ||Criação de Documentos ||O usuário deverá informar a identificação (número do protocolo), título, descrição e tipo de documento (memorando individuais e circulares) e em seguida irá anexar um documento como planilha,  texto e slides.  ||Alta ||
-||RF09 ||Encaminhamento de documentos || Para qual destino segue o documento.||Alta ||
-||RF10 ||Recebimento de Documentos ||O usuários ao acessar o sistema deverá ser notificado através de e-mail da existência de documentos pendentes. ||Alta ||
-||RF11 ||Pendências de Recebimento ||O usuário que enviou um documento poderá verificar se este foi lido pelo destinatário ou não. ||Alta ||
-||RF12 ||Pesquisa de Documentos ||O usuário poderá pesquisar um documento que lhe foi enviado ou por ele enviado. Deverá possuir uma caixa postal individual com busca. ||Alta ||
-||RF13 ||Histórico de Documentos||O sistema guardará todos os documentos criados. Estes serão sigilosos e acessados por seus responsáveis ||Alta ||
+||RF08 ||Criação de Documentos ||O usuário deverá informar a identificação (número do protocolo), título, descrição e tipo de documento (memorando individuais e circulares) e em seguida irá anexar um documento como planilha,  texto e slides.  ||Essencial||
+||RF09 ||Encaminhamento de documentos || Para qual destino segue o documento.||Essencial||
+||RF10 ||Recebimento de Documentos ||O usuários ao acessar o sistema deverá ser notificado através de e-mail da existência de documentos pendentes. ||Essencial||
+||RF11 ||Pendências de Recebimento ||O usuário que enviou um documento poderá verificar se este foi lido pelo destinatário ou não. ||Essencial||
+||RF12 ||Pesquisa de Documentos ||O usuário poderá pesquisar um documento que lhe foi enviado ou por ele enviado. Deverá possuir uma caixa postal individual com busca. ||Essencial||
+||RF13 ||Histórico de Documentos||O sistema guardará todos os documentos criados. Estes serão sigilosos e acessados por seus responsáveis ||Essencial||
