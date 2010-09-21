@@ -1,44 +1,4 @@
-#summary Uses Stories.
 #labels Phase-Requirements
-
-= Introduction =
-
-<br><b>Uma breve descrição do sistema.</b>
-
-"O Sistema de Memorandos On-Line deverá permitir que os usuários possam enviar comunicados, pareceres, solicitações e informativos com segurança, entre os usuários cadastrados no sistema, em tempo real, sem necessidade do uso de papel. Deve ser possível localizar um memorando enviado, saber qual foi o roteiro por ele percorrido e todos os despachos que foram adicionados.<br>Recursos como moderação de conteúdo, avisos por e-mail, mensagens de cobrança, transferência de arquivos anexados e agendamento de ausências complementam a eficiência do sistema." 
-
-<b>Funcionalidades:</b> 
-      - Memorandos individuais e circulares;<br> 
-      - Caixa Postal individual com busca;<br> 
-      - Agendamento de ausências;<br> 
-      - Transferência de arquivos;<br>
-      - Notificações por e-mail;<br> 
-
-= Details =
-
-<b>Autenticação e controle:</b>
-      - Login com autenticação (se possível, recuperar senha pelo e-mail);
-      - Cadastro de usuário;
-
-<b>Tela Inicial:</b>
-      - Criar Memorandos, Oficios, Requerimentos no formato PDF (permitir que o usuário possa criar seu próprio documento, usando a estrutura desejada);<br>
-      - Localizar os Memorando enviados, identificando a rota percorrida pelo mesmo e os despachos que foram adicionados;<br>
-      - Enviar Mensagens;<br>
-
-<b>Tramitação do processo:</b>
-      - Escolher tipo de memorando: individual ou circular;<br>
-      - Criação de memorando: Destinatário, Assunto e descrição, arquivos anexos, conferência, número protocolo automático;<br>
-      - Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução.<br>
-      - Tramite Interno: Caixa Postal com sistema de busca, despachos, mensagens de       alerta, notificações por e-mail;<br>
-      - Arquivamento: Automático para memorandos circulares; manual para memorandos individuais;<br>
-
-<b>Recursos adicionais:</b><br>
-      - Avisos por e-mail;<br>
-      - Mensagens de cobrança;<br>
-      - Transferência de Arquivos Anexados;<br>
-      - Agendamento de Ausências; <br>
-
-
 ----
 
 =User Stories=
@@ -164,3 +124,40 @@
 ||US06 ||CT11 ||Testes de unidades ||I05 ||Essencial ||2h || ||
 ||US06 ||CT12 ||Teste de aceitação ||I05 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||32h || ||
+
+
+
+#summary Uses Stories.
+
+= Introduction =
+
+<br><b>Uma breve descrição do sistema.</b>
+
+"O Sistema de Memorandos On-Line deverá permitir que os usuários possam enviar comunicados, pareceres, solicitações e informativos com segurança, entre os usuários cadastrados no sistema, em tempo real, sem necessidade do uso de papel. Deve ser possível localizar um memorando enviado, saber qual foi o roteiro por ele percorrido e todos os despachos que foram adicionados.<br>Recursos como moderação de conteúdo, avisos por e-mail, mensagens de cobrança, transferência de arquivos anexados e agendamento de ausências complementam a eficiência do sistema." 
+
+<b>Funcionalidades:</b> 
+      - Memorandos individuais e circulares;<br> 
+      - Caixa Postal individual com busca;<br> 
+      - Agendamento de ausências;<br> 
+      - Transferência de arquivos;<br>
+      - Notificações por e-mail;<br> 
+
+= Details =
+
+<b>Autenticação e controle:</b>
+      - Login com autenticação (se possível, recuperar senha pelo e-mail);
+      - Cadastro de usuário;
+
+<b>Tela Inicial:</b>
+      - Criar Memorandos, Oficios, Requerimentos no formato PDF (permitir que o usuário possa criar seu próprio documento, usando a estrutura desejada);<br>
+      - Localizar os Memorando enviados, identificando a rota percorrida pelo mesmo e os despachos que foram adicionados;<br>
+      - Enviar Mensagens;<br>
+
+<b>Tramitação do processo:</b>
+      - Escolher tipo de memorando: individual ou circular;<br>
+      - Criação de memorando: Destinatário, Assunto e descrição, arquivos anexos, conferência, número protocolo automático;<br>
+      - Moderação: Alerta de Memorandos Pendentes, Aprovação, Devolução.<br>
+      - Tramite Interno: Caixa Postal com sistema de busca, despachos, mensagens de       alerta, notificações por e-mail;<br>
+      - Arquivamento: Automático para memorandos circulares; manual para memorandos individuais;<br>
+
+
