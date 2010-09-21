@@ -11,7 +11,6 @@
 <h2>Sistema de autenticação</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US01 ||TA08 ||Criar e povoar o banco de dados de testes||I01 ||Desejável ||4h || ||
 ||US01 ||TA09 ||Criação das _domains classes_ contidas no modelo ||I01 ||Essencial ||2h || ||
 ||US01 ||TA10 ||Configurar tipos de usuários ||I01 ||Essencial ||1h || ||
 ||US01 ||TA11 ||Configurar tipos de documentos ||I01 ||Essencial ||1h || ||
