@@ -1,3 +1,5 @@
 #summary Arquitetura do sistema
 
 A documentação encontra-se na página de Downloads.
+
+http://code.google.com/images/code_sm.png
