@@ -2,4 +2,4 @@
 
 A documentação encontra-se na página de Downloads.
 
-http://code.google.com/p/memorandos/downloads/Grails_FrameworkPng.png
+http://memorandos.googlecode.com/file/Grails_FrameworkPng.png
