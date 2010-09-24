@@ -26,16 +26,7 @@
 ||US01 ||TA06 ||Tratamento de erros de login||I01 ||Essencial ||2h || ||
 ||US01 ||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||2h || ||
 ||US01 ||TA08 ||Implementar sistema de login/logout do usuário||<b>I02</b> ||Essencial ||2h || ||
-
 ||US01 ||TA09 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
-
-
-
-
-
-
-
-
 ||TEMPO TOTAL|||||||| ||15h || ||
 <br>
 
