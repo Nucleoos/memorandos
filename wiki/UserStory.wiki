@@ -10,9 +10,9 @@
 
 <h2>Sistema de autenticação</h2>
 
-||<b>Autenticação e controle:</b><br>
+||<b>Autenticação e controle:</b> ||<br>
       - Login com autenticação (se possível, recuperar senha pelo e-mail);<br>
-      - Cadastro de usuário; ||
+      - Cadastro de usuário;
 
 
 
