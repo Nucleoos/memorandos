@@ -9,12 +9,11 @@
 ==US01==
 
 <h2>Sistema de autenticação</h2>
-<h3>
 
 ||<b>Autenticação e controle:</b><br>
       - Login com autenticação (se possível, recuperar senha pelo e-mail);<br>
       - Cadastro de usuário; ||
-</h3>
+
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
