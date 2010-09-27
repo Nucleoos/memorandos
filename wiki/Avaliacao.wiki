@@ -2,7 +2,10 @@
 
 = Avaliação do projeto WebPós =
 
+----
 
-Primeira [http://memorandos.googlecode.com/files/AvaliaçãoWEbPos.pdf Avaliação]
+[http://memorandos.googlecode.com/files/AvaliaçãoWEbPos.pdf Primeira Avaliação]
 
-Formulário de [http://memorandos.googlecode.com/files/FormularioAvaliacao.pdf Avaliação]
+[http://memorandos.googlecode.com/files/FormularioAvaliacao.pdf Formulário de Avaliação]
+
+----
