@@ -16,16 +16,15 @@
 
 
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US01 ||TA01 ||Configurar tipos de usuários e suas permissões ||I01 ||Essencial ||2h || ||
-||US01 ||TA02 ||Cadastrar Usuários ||I01 ||Essencial ||2h || ||
-||US01 ||TA03 ||Criar Banco de Dados ||I01 ||Essencial ||4h || ||
-||US01 ||TA04 ||Criação da página de login HTML(view)||I01 ||Essencial ||2h || ||
-||US01 ||TA05 ||Formatação dos campos de login||I01 ||Desejável ||2h || ||
-||US01 ||TA06 ||Tratamento de erros de login||I01 ||Essencial ||4h || ||
-||US01 ||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||4h || ||
-||US01 ||TA08 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||22h || ||
+||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
+||TA01 ||Configurar tipos de usuários e suas permissões ||I01 ||Essencial ||2h || ||
+||TA02 ||Cadastrar Usuários ||I01 ||Essencial ||2h || ||
+||TA03 ||Criar Banco de Dados ||I01 ||Essencial ||4h || ||
+||TA04 ||Criação da página de login HTML(view)||I01 ||Essencial ||2h || ||
+||TA05 ||Formatação dos campos de login||I01 ||Desejável ||2h || ||
+||TA06 ||Tratamento de erros de login||I01 ||Essencial ||4h || ||
+||TA08 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
+||TEMPO TOTAL|||||| ||22h || ||
 <br>
 
 ==US02==
@@ -35,15 +34,16 @@
 <h2> Autenticação e Controle:</h2>
 
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US02 ||TA09 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
-||US02||TA10||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
-||US02||TA11||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
-||US02||TA12||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
-||US02||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
-||US02||TA14||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
-||US02||TA15||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
-||TEMPO TOTAL|||||||| ||18h || ||
+||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
+||TA09 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
+||TA10||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
+||TA11||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
+||TA12||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
+||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||4h || ||
+||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
+||TA14||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
+||TA15||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
+||TEMPO TOTAL|||||| ||18h || ||
 <br>
 
 ==US03==
@@ -52,7 +52,7 @@
 
 <h2>Tela inicial</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
 ||US03||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I02 ||Essencial ||4h || ||
 ||US03||TA25||Implementar controle para Criar memorandos||<b>I03</b> ||Essencial ||8h || ||
 ||US03||TA26||Implementar modelo para Criar memorandos||I03 ||Essencial ||8h || ||
@@ -67,7 +67,7 @@
 
 <h2>Tramitação do processo</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
 ||US04||TA29||Implementar memorandos: individual ou circular; ||I03 ||Essencial ||4h || ||
 ||US04||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I03 ||Essencial ||4h || ||
 ||US04||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||<b>I04</b> ||Essencial ||8h || ||
@@ -82,7 +82,7 @@
 
 <h2>Recursos adicionais</h2>
 
-||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
 ||US05||TA34||Implementar Avisos que serão enviados automaticamente por e-mail||<b>I05</b> ||Essencial ||8h || ||
 ||US05||TA35||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)||I05 ||Essencial ||8h || ||
 ||US05||TA36||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h || ||
