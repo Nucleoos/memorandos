@@ -37,16 +37,14 @@
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US01 ||TA08 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
+||US02 ||TA08 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
 ||US02||TA21||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
 ||US02||TA22||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
 ||US02||TA23||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
 ||US02||TA18||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
 ||US02||TA19||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
 ||US02||TA20||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
-||US02 ||CT05 ||Testes de unidades ||I02 ||Essencial ||2h || ||
-||US02 ||CT06 ||Teste de aceitação ||I02 ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||22h || ||
+||TEMPO TOTAL|||||||| ||18h || ||
 <br>
 
 ==US03==
