@@ -25,7 +25,6 @@
 ||US01 ||TA05 ||Formatação dos campos de login||I01 ||Desejável ||2h || ||
 ||US01 ||TA06 ||Tratamento de erros de login||I01 ||Essencial ||4h || ||
 ||US01 ||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||4h || ||
-||US01 ||TA08 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
 ||US01 ||TA09 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
 ||TEMPO TOTAL|||||||| ||15h || ||
 <br>
@@ -38,10 +37,10 @@
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
+||US01 ||TA08 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || ||
 ||US02||TA21||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || ||
 ||US02||TA22||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||
 ||US02||TA23||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||
-
 ||US02||TA18||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||
 ||US02||TA19||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||
 ||US02||TA20||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
