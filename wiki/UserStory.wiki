@@ -13,7 +13,7 @@
 <b>Autenticação e controle:</b>
 
 <br>
-|| <b>US1</b> ||<b>- Login com autenticação (se possível, recuperar senha pelo e-mail);</b><br><b>- Cadastro de usuário;</b>||<b>3 dias<br>3 dias</b> ||
+|| <b>US1</b> ||<b>- Login com autenticação (se possível, recuperar senha pelo e-mail);</b><br><b>- Cadastro de usuário;</b>||<b>3 dias</b><br><b>3 dias</b> ||
 
 
 
