@@ -12,20 +12,20 @@
 
 
 <br>
-|| <b>US1</b> ||<b>- Login com autenticação (se possível, recuperar senha pelo e-mail);</b><br><b>- Cadastro de usuário;</b>||<b>3 dias</b><br><b>3 dias</b> ||
+|| <b>US1</b> ||<b>- Login com autenticação (se possível, recuperar senha pelo e-mail);</b><br><b>- Cadastro de usuário;</b>||<b>5 dias</b><br><b>3 dias</b> ||
 
 
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||
-||US01 ||TA01 ||Configurar tipos de usuários e suas permissões ||I01 ||Essencial ||1h || ||
-||US01 ||TA02 ||Cadastrar Usuários ||I01 ||Essencial ||1h || ||
-||US01 ||TA03 ||Criar Banco de Dados ||I01 ||Essencial ||2h || ||
+||US01 ||TA01 ||Configurar tipos de usuários e suas permissões ||I01 ||Essencial ||2h || ||
+||US01 ||TA02 ||Cadastrar Usuários ||I01 ||Essencial ||2h || ||
+||US01 ||TA03 ||Criar Banco de Dados ||I01 ||Essencial ||4h || ||
 ||US01 ||TA04 ||Criação da página de login HTML(view)||I01 ||Essencial ||2h || ||
 ||US01 ||TA05 ||Formatação dos campos de login||I01 ||Desejável ||2h || ||
 ||US01 ||TA06 ||Tratamento de erros de login||I01 ||Essencial ||4h || ||
 ||US01 ||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||4h || ||
 ||US01 ||TA08 ||Implementar algoritmo de criptografia de dados ||I01 ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||15h || ||
+||TEMPO TOTAL|||||||| ||20h || ||
 <br>
 
 ==US02==
