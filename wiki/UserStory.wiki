@@ -46,7 +46,7 @@
 ||US02||TA20||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||
 ||US02 ||CT05 ||Testes de unidades ||I02 ||Essencial ||2h || ||
 ||US02 ||CT06 ||Teste de aceitação ||I02 ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||20h || ||
+||TEMPO TOTAL|||||||| ||22h || ||
 <br>
 
 ==US03==
