@@ -65,7 +65,7 @@
 ||US03||TA28||Implementar modelo para Localizar Memorandos||I03 ||Essencial ||4h || ||
 ||US03 ||CT07 ||Testes de unidades ||I03 ||Essencial ||2h || ||
 ||US03 ||CT08 ||Teste de aceitação ||I03 ||Essencial ||2h || ||
-||TEMPO TOTAL|||||||| ||22h || ||
+||TEMPO TOTAL|||||||| ||36h || ||
 <br>
 
 ==US04==
