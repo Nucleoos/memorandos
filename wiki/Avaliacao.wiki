@@ -9,3 +9,5 @@
 [http://memorandos.googlecode.com/files/FormularioAvaliacao.pdf Formulário de Avaliação]
 
 ----
+
+http://code.google.com/p/copin-webpos/wiki/Avaliacao Avaliacão em pares
