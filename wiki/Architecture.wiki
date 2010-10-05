@@ -7,5 +7,7 @@ A documentação refente à arquitetura do projeto Memorandos encontra-se anexa 
 
 
 
-
 ----
+----
+
+http://memorandos.googlecode.com/files/Grails_FrameworkPng.png
