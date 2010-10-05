@@ -9,5 +9,8 @@
 [http://memorandos.googlecode.com/files/FormularioAvaliacao.pdf Formulário de Avaliação]
 
 ----
+----
+
+Avaliação da nossa arquitetura pelo grupo do projeto WebPós
 
 http://code.google.com/p/copin-webpos/wiki/Avaliacao Avaliacão em pares
