@@ -1,10 +1,11 @@
 #summary Arquitetura do sistema
 
-A documentação encontra-se na página de Downloads.
+A documentação refente à arquitetura do projeto Memorandos encontra-se anexa abaixo.
 
-http://memorandos.googlecode.com/files/Grails_FrameworkPng.png
+||Arquivo ||Atualização||
+||[http://memorandos.googlecode.com/files/ArquiteturaV1.0.pdf Arquitetura Versão 1.0]|| 13/09/2010 ||
+
+
 
 
 ----
-
-[http://memorandos.googlecode.com/files/ArquiteturaV1.0.pdf Arquitetura Versão 1.0]
