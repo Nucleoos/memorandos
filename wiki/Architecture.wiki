@@ -7,4 +7,4 @@ http://memorandos.googlecode.com/files/Grails_FrameworkPng.png
 
 ----
 
-[http://memorandos.googlecode.com/files/Arquitetura do projeto Sistema de Memorandos On-line.pdf Arquitetura]
+[http://memorandos.googlecode.com/files/ArquiteturaV1.0.pdf Arquitetura Versão 1.0]
