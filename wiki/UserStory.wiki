@@ -35,11 +35,11 @@
 
 
 ||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA09 ||Criar tela Alteração de Senha||I01 ||Essencial ||2h || || ||
+||TA09 ||Criar tela Alteração de Senha||I02 ||Essencial ||2h || || ||
 ||TA10||Implementar tela Alteração de Senha (view)||I02 ||Essencial ||2h || || ||
 ||TA11||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || || ||
 ||TA12||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || || ||
-||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I01 ||Desejável ||4h || || ||
+||TA07 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I02 ||Desejável ||4h || || ||
 ||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || || ||
 ||TA14||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || || ||
 ||TA15||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || || ||
@@ -53,8 +53,8 @@
 <h2>Tela inicial</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||US03||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I02 ||Essencial ||4h || || ||
-||US03||TA25||Implementar controle para Criar memorandos||<b>I03</b> ||Essencial ||8h || || ||
+||US03||TA24||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I03 ||Essencial ||4h || || ||
+||US03||TA25||Implementar controle para Criar memorandos||I03 ||Essencial ||8h || || ||
 ||US03||TA26||Implementar modelo para Criar memorandos||I03 ||Essencial ||8h || || ||
 ||US03||TA27||Implementar controle para Localizar Memorandos||I03 ||Essencial ||4h || || ||
 ||US03||TA28||Implementar modelo para Localizar Memorandos||I03 ||Essencial ||4h || || ||
@@ -68,8 +68,8 @@
 <h2>Tramitação do processo</h2>
 
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||US04||TA29||Implementar memorandos: individual ou circular; ||I03 ||Essencial ||4h || || ||
-||US04||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I03 ||Essencial ||4h || || ||
+||US04||TA29||Implementar memorandos: individual ou circular; ||I04 ||Essencial ||4h || || ||
+||US04||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I04 ||Essencial ||4h || || ||
 ||US04||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||<b>I04</b> ||Essencial ||8h || || ||
 ||US04||TA32||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || || ||
 ||US04||TA33||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || || ||
