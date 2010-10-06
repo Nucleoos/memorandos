@@ -70,7 +70,7 @@
 ||<b>US</b>||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
 ||US04||TA29||Implementar memorandos: individual ou circular; ||I04 ||Essencial ||4h || || ||
 ||US04||TA30||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I04 ||Essencial ||4h || || ||
-||US04||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||<b>I04</b> ||Essencial ||8h || || ||
+||US04||TA31||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||I04 ||Essencial ||8h || || ||
 ||US04||TA32||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || || ||
 ||US04||TA33||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || || ||
 ||TEMPO TOTAL|||||||| ||32h || ||
