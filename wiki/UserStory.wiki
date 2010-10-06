@@ -27,7 +27,7 @@
 ||TEMPO TOTAL|||||| ||22h || ||
 <br>
 
-^1^ Atualmente Grails não fornece qualquer aplicação para isso. Existem plugins de segurança múltiplas, incluindo [http://grails.org/plugin/spring-security-core Spring Security], [http://incubator.apache.org/shiro/index.html Shiro], e [http://grails.org/plugin/authentication Authentication], e se suas necessidades são muito simples você pode proteger seu aplicativo com filtros Grails.
+^1^ Atualmente Grails não fornece qualquer aplicação para isso. Existem plugins de segurança múltiplas, incluindo [http://grails.org/plugin/spring-security-core Spring Security], [http://incubator.apache.org/shiro/index.html Shiro], e [http://grails.org/plugin/authentication Authentication].
 
 
 <br>
