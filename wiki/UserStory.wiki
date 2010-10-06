@@ -46,7 +46,7 @@
 ||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || || ||
 ||TA14||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || || ||
 ||TA15||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || || ||
-||TEMPO TOTAL|||||| ||18h || ||
+||TEMPO TOTAL|||| ||18h || ||
 <br>
 
 ==US03==
@@ -61,7 +61,7 @@
 ||TA18||Implementar modelo para Criar memorandos||I03 ||Essencial ||8h || || ||
 ||TA19||Implementar controle para Localizar Memorandos||I03 ||Essencial ||4h || || ||
 ||TA20||Implementar modelo para Localizar Memorandos||I03 ||Essencial ||4h || || ||
-||TEMPO TOTAL|||||||| ||28h || ||
+||TEMPO TOTAL|||||| ||28h || ||
 <br>
 
 ==US04==
@@ -76,7 +76,7 @@
 ||TA23||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||I04 ||Essencial ||8h || || ||
 ||TA24||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || || ||
 ||TA25||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || || ||
-||TEMPO TOTAL|||||||| ||32h || ||
+||TEMPO TOTAL|||||| ||32h || ||
 <br>
 
 ==US05==
@@ -89,12 +89,15 @@
 ||TA26||Implementar Avisos que serão enviados automaticamente por e-mail||<b>I05</b> ||Essencial ||8h || || ||
 ||TA27||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)||I05 ||Essencial ||8h || || ||
 ||TA28||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h || || ||
-||TEMPO TOTAL|||||||| ||28h || ||
+||TEMPO TOTAL|||||| ||28h || ||
 
 
+<br>
+<br>
+<br>
 
-
-
+----
+----
 
 
 <br><b>Uma breve descrição do sistema.</b>
