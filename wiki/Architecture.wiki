@@ -6,9 +6,3 @@ A documentação refente à arquitetura do projeto Memorandos encontra-se anexa 
 ||[http://memorandos.googlecode.com/files/ArquiteturaV1.0.pdf Arquitetura Versão 1.0]|| 13/09/2010 ||
 ||[http://memorandos.googlecode.com/files/ArquiteturaV1.1.pdf Arquitetura Versão 1.1]|| 06/10/2010 ||
 
-
-
-----
-----
-
-http://memorandos.googlecode.com/files/Grails_FrameworkPng.png
