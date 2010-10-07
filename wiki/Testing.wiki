@@ -20,7 +20,7 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Implementação</b>||Manual ||
 ||<b>Iteração</b>||[Iteration I01]||
 ||<b>Responsável</b>|| ||
-||<b>Status</b>||Esperando ||
+||<b>Status</b>||Feito ||
 
 <h3>Login inválido</h3>
 
@@ -32,7 +32,7 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Implementação</b>||Manual ||
 ||<b>Iteração</b>||[Iteration I01] ||
 ||<b>Responsável</b>|| ||
-||<b>Status</b>||Esperando ||
+||<b>Status</b>||Feito ||
 
 
 <h3>Senha inválida</h3>
@@ -45,7 +45,7 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Implementação</b>||Manual ||
 ||<b>Iteração</b>||[Iteration I01] ||
 ||<b>Responsável</b>|| ||
-||<b>Status</b>||Esperando ||
+||<b>Status</b>||Feito ||
 
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
@@ -56,4 +56,4 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Implementação</b>||Manual ||
 ||<b>Iteração</b>||[Iteration I01]||
 ||<b>Responsável</b>|| ||
-||<b>Status</b>||Esperando ||
+||<b>Status</b>||Feito ||
