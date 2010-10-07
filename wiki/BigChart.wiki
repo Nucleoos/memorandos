@@ -1,3 +1,4 @@
 #summary Gráfico Gerencial.
 
-[http://code.google.com/memorandos/downloads/bigchart.png]
+
+http://memorandos.googlecode.com/files/BigChart.PNG]
