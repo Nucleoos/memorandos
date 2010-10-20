@@ -1,4 +1,4 @@
-#summary Uses Stories.
+#summary User Stories.
 #labels Phase-Requirements
 ----
 
