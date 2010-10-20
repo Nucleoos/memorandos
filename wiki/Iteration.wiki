@@ -1,4 +1,4 @@
-Planejamento de iterações.
+# Planejamento de iterações.
 
 = Introduction =
 
@@ -14,7 +14,7 @@ Mostra as iterações do projeto.
 ==Iteração==
 
 ||<b>Iteração</b>||<b>[UserStory User Stories]</b>||<b>Tarefas</b>||[Release Release] ||<b>Dt início</b>||<b>Dt limite</b>||<b>Status</b>||
-||I01 ||[UserStory#US01 US01]||ta01 a ta07 ||re01 ||20/09/2010||04/10/2010||Finalizando||
+||I01 ||[UserStory#US01 US01]||ta01 a ta07 ||re01 ||20/09/2010||04/10/2010||Finalizado||
 ||I02 ||[UserStory#US02 US02]||ta08 a ta15 ||re01 ||04/10/2010||18/10/2010||Esperando||
 ||I03 ||[UserStory#US03 US03]||ta16 a ta20 ||re01 ||18/10/2010||03/11/2010||Esperando||
 ||I04 ||[UserStory#US04 US04]||ta21 a ta25 ||re02 ||03/11/2010||17/11/2010||Esperando||
