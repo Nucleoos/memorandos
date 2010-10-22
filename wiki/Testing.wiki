@@ -22,6 +22,8 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Responsável</b>|| Arnaldo||
 ||<b>Status</b>||Feito ||
 
+----
+
 <h3>Login inválido</h3>
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
@@ -34,6 +36,7 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Responsável</b>|| Arnaldo||
 ||<b>Status</b>||Feito ||
 
+----
 
 <h3>Senha inválida</h3>
 
@@ -47,6 +50,8 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Responsável</b>|| Arnaldo||
 ||<b>Status</b>||Feito ||
 
+----
+
 <h3>Senha ou Login em branco</h3>
 
 ||<b>Pré-condição</b>||Estar na tela de login do sistema ||
@@ -56,6 +61,21 @@ Aqui serão apontados os casos de testes para validação do sistema.
 ||<b>Ambiente</b>||<b>Sispema Operacional</b>: Windows XP,Vista;<br> <b>Browser</b> firefox 3.6.9, iexplore;<br><b>Servidor de aplicação</b>: Apache Tomcat 6.0 ||
 ||<b>Implementação</b>||Manual ||
 ||<b>Iteração</b>||[Iteration I01]||
+||<b>Responsável</b>|| Arnaldo||
+||<b>Status</b>||Feito ||
+
+----
+----
+
+<h3>Senha de confirmação não confere</h3>
+
+||<b>Pré-condição</b>||Estar na tela de alteração de senha ||
+||<b>Pós-condição</b>||Mensagem de erro do sistema e volta a tela de confirmação de senha ||
+||<b>Detalhe</b>||O ator informa senha de confirmação diferente da senha digitada anteriormente||
+||<b>Massa de entrada e saída</b>|| Não se aplica||
+||<b>Ambiente</b>||<b>Sispema Operacional</b>: Windows XP,Vista;<br> <b>Browser</b> firefox 3.6.9, iexplore;<br><b>Servidor de aplicação</b>: Apache Tomcat 6.0 ||
+||<b>Implementação</b>||Manual ||
+||<b>Iteração</b>||[Iteration I02]||
 ||<b>Responsável</b>|| Arnaldo||
 ||<b>Status</b>||Feito ||
 
