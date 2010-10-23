@@ -1,7 +1,7 @@
 #summary Gráfico Gerencial.
 
 
-http://memorandos.googlecode.com/files/BigChart2.PNG
+http://memorandos.googlecode.com/files/BigChart2a.PNG
 
 
 GSP - Groovy Server Pages
