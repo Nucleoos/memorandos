@@ -42,11 +42,13 @@
 ||TA10||Implementar modelo para Alteração de Senha||I02 ||Essencial ||2h || ||Claudia ||Feito ||
 ||TA11||Implementar controle para Alteração de Senha||I02 ||Essencial ||2h || ||Claudia ||Feito ||
 ||TA12 ||Criar um mecanismo de ajuda para os usuários que esquecerem a senha ||I02 ||Desejável ||4h || ||Arnaldo ||Feito ||
-||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||Leonardo ||Descartado ||
-||TA14||Implementar modelo de Agendamento de Asência ||I02 ||Essencial ||4h || ||Leonardo ||Descartado ||
-||TA15||Implementar controle(_domains classes_) de Agendamento de Asência ||I02 ||Essencial ||4h || ||Leonardo ||Descartado ||
+||TA13||Implementar tela de Agendamento de Ausência (view)||I02 ||Essencial ||2h || ||Arnaldo ||Descartado ||
+||TA14||Implementar modelo de Agendamento de Ausência ||I02 ||Essencial ||4h || ||Arnaldo ||Descartado ||
+||TA15||Implementar controle(_domains classes_) de Agendamento de Ausência ||I02 ||Essencial ||4h || ||Arnaldo ||Descartado ||
 ||TEMPO TOTAL|||| || ||20h || || ||
 <br>
+
+Foi dito em reunião com o cliente Leonardo que este requisito - Agendamento de Ausência- deveria ser retirado do sistema.
 
 ==US03==
 
