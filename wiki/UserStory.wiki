@@ -57,9 +57,9 @@ Foi dito em reunião com o cliente Leonardo que este requisito - Agendamento de 
 <h2>Tela inicial</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||  <b>Status</b>||
-||TA16||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I03 ||Essencial ||2h || || || ||
-||TA17||Implementar controle para Criar memorandos||I03 ||Essencial ||4h || || || ||
-||TA18||Implementar modelo para Criar memorandos||I03 ||Essencial ||4h || || || ||
+||TA16||Implementar tela inicial do sistema com informações de:<br>-Criar memorandos, Ofícios;<br>-Localizar Memorandos (enviados, sua rota percorrida e despachos adicionados);  ||I03 ||Essencial ||2h || ||Claudia ||Feito ||
+||TA17||Implementar controle para Criar memorandos||I03 ||Essencial ||4h || ||Claudia ||Feito ||
+||TA18||Implementar modelo para Criar memorandos||I03 ||Essencial ||4h || ||Claudia ||Feito ||
 ||TA19||Implementar controle para Localizar Memorandos||I03 ||Essencial ||4h || ||Arnaldo ||Feito ||
 ||TA20||Implementar modelo para Localizar Memorandos||I03 ||Essencial ||4h || ||Arnaldo ||Feito ||
 ||TEMPO TOTAL|||||| ||28h || ||
