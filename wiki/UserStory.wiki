@@ -73,8 +73,8 @@ Foi dito em reunião com o cliente Leonardo que este requisito - Agendamento de 
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
 ||TA21||Implementar memorandos: individual ou circular; ||I04 ||Essencial ||4h || ||Claudia ||Feito ||
-||TA22||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, conferência, número protocolo automático||I04 ||Essencial ||4h || ||Claudia ||Feito ||
-||TA23||Implementar Moderação: Alerta de Memorandos Pendentes, Aprovação,<br> Devolução  ||I04 ||Essencial ||8h || ||Arnaldo ||Feito ||
+||TA22||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, número protocolo automático||I04 ||Essencial ||4h || ||Claudia ||Feito ||
+||TA23|| Editor de texto interno do sistema ||I04 ||Essencial ||8h || ||Arnaldo ||Feito ||
 ||TA24||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || ||Arnaldo ||Feito ||
 ||TA25||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || ||Cláudia ||Feito ||
 ||TEMPO TOTAL|||||| ||32h || ||
