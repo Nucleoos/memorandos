@@ -18,7 +18,7 @@ Mostra as iterações do projeto.
 ||I02 ||[UserStory#US02 US02]||ta08 a ta15 ||re01 ||04/10/2010||18/10/2010||Arnaldo ||Finalizado||
 ||I03 ||[UserStory#US03 US03]||ta16 a ta20 ||re01 ||18/10/2010||03/11/2010||Claudia ||Finalizado||
 ||I04 ||[UserStory#US04 US04]||ta21 a ta25 ||re02 ||03/11/2010||17/11/2010||Claudia ||Finalizado||
-||I05 ||[UserStory#US05 US05]||ta26 a ta28 ||re02 ||17/11/2010||29/11/2010||Claudia ||||
+||I05 ||[UserStory#US05 US05]||ta26 a ta28 ||re02 ||17/11/2010||29/11/2010||Claudia ||Finalizado||
 
 <br>
 <br>
