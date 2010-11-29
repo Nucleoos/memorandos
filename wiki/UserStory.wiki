@@ -87,8 +87,8 @@ Foi dito em reunião com o cliente Leonardo que este requisito - Agendamento de 
 <h2>Recursos adicionais</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA26||Implementar Avisos que serão enviados automaticamente por e-mail||<b>I05</b> ||Essencial ||8h ||Claudia ||Feito ||
-||TA27||Implementar Mensagem de Cobrança (visa cobrar o que já foi pedido<br> anteriormente)||I05 ||Essencial ||8h ||Claudia||Feito ||
+||TA26||Implementar Despacho (criação de documentos em PDF) ||<b>I05</b> ||Essencial ||8h ||Claudia ||Feito ||
+||TA27||Implementar Editor de texto interno ao sistema<br> ||I05 ||Essencial ||8h ||Arnaldo||Feito ||
 ||TA28||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h ||Arnaldo ||Feito ||
 ||TEMPO TOTAL|||||| ||28h || ||
 
