@@ -18,8 +18,8 @@ Mostra as iterações do projeto memorandos.
 
 ||<b>Iteração</b>||<b>[UserStory User Stories]</b>||<b>Tarefas</b>||[Release Release] ||<b>Dt início</b>||<b>Dt limite</b>||
 ||I01 ||[UserStory#US01 US01]||ta01 a ta07 ||re01 ||21/02/2011||07/03/2011||
-||I02 ||[UserStory#US02 US02, UserStory#US03 US03]||ta08 a ta15 ||re01 ||07/03/2011||21/03/2011||
-||I03 ||[UserStory#US04 US04, UserStory#US05 US05]||ta16 a ta20 ||re01 ||21/03/2011||04/04/2011||
+||I02 ||[UserStory#US02 US02], [UserStory#US03 US03]||ta08 a ta15 ||re01 ||07/03/2011||21/03/2011||
+||I03 ||[UserStory#US04 US04], [UserStory#US05 US05]||ta16 a ta20 ||re01 ||21/03/2011||04/04/2011||
 ||I04 ||[UserStory#US05 US05]||ta21 a ta25 ||re02 ||04/04/2011||18/04/2011||
 ||I05 ||[UserStory#US06 US06]||ta26 a ta28 ||re02 ||18/04/2011||02/05/2011||
 ||I06 ||[UserStory#US07 US07]||ta26 a ta28 ||re02 ||02/05/2011||16/05/2011||
