@@ -44,23 +44,20 @@
 <h2>3. Interface do Sistema</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||  <b>Status</b>||
-||TA04||Verificar usabilidade do sistema (fácil entendimendo, digitação rápida) ||I02 ||Essencial ||12h || ||Arnaldo/Claudia ||Feito ||
-||TEMPO TOTAL|||||| ||22h || ||
+||TA04||Verificar usabilidade do sistema (fácil entendimendo, digitação rápida) ||I02 ||Essencial ||12h || ||Arnaldo/Claudia ||espera ||
+||TEMPO TOTAL|||||| ||12h || ||
 <br>
 
 ==US04==
 
 <br>
 
-<h2>Tramitação do processo</h2>
+<h2>4.	Instalação do Sistema e teste pelos usuários</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
-||TA21||Implementar memorandos: individual ou circular; ||I04 ||Essencial ||4h || ||Claudia ||Feito ||
-||TA22||Implementar criação de memorando: destinatário, assunto e descrição,<br> arquivos anexos, número protocolo automático||I04 ||Essencial ||4h || ||Claudia ||Feito ||
-||TA23|| Editor de texto interno do sistema ||I04 ||Essencial ||8h || ||Arnaldo ||Feito ||
-||TA24||Implementar Trâmite Interno: Caixa Postal com sistema de busca, <br>despachos, mensagens de alerta, notificações por e-mail  ||I04 ||Essencial ||8h || ||Arnaldo ||Feito ||
-||TA25||Implementar Arquivamento: automático para memorandos circulares; <br>manual para memorandos individuais||I04 ||Essencial ||8h || ||Cláudia ||Feito ||
-||TEMPO TOTAL|||||| ||32h || ||
+||TA05||Geração de arquivo .war para deployment devidamente testado ||I04 ||Essencial ||12h || ||Arnaldo/Claudia ||espera ||
+
+||TEMPO TOTAL|||||| ||12h || ||
 <br>
 
 ==US05==
@@ -70,7 +67,7 @@
 <h2>Recursos adicionais</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA26||Implementar Despacho (criação de documentos em PDF) ||<b>I05</b> ||Essencial ||8h ||Claudia ||Feito ||
+||TA06||Implementar Despacho (criação de documentos em PDF) ||<b>I05</b> ||Essencial ||8h ||Claudia ||Feito ||
 ||TA27||Implementar Editor de texto interno ao sistema<br> ||I05 ||Essencial ||8h ||Arnaldo||Feito ||
 ||TA28||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h ||Arnaldo ||Feito ||
 ||TEMPO TOTAL|||||| ||28h || ||
