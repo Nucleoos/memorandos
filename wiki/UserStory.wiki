@@ -56,7 +56,6 @@
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
 ||TA05||Geração de arquivo .war para deployment devidamente testado ||I04 ||Essencial ||12h || ||Arnaldo/Claudia ||espera ||
-
 ||TEMPO TOTAL|||||| ||12h || ||
 <br>
 
@@ -64,13 +63,26 @@
 
 <br>
 
-<h2>Recursos adicionais</h2>
+<h2>5.	Ajustes no sistema</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA06||Implementar Despacho (criação de documentos em PDF) ||<b>I05</b> ||Essencial ||8h ||Claudia ||Feito ||
-||TA27||Implementar Editor de texto interno ao sistema<br> ||I05 ||Essencial ||8h ||Arnaldo||Feito ||
-||TA28||Implementar Transferência de Arquivos Anexados||I05 ||Essencial ||12h ||Arnaldo ||Feito ||
-||TEMPO TOTAL|||||| ||28h || ||
+||TA06||correção de possíveis falhas ou inclusão de novas funcionalidades ||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
+||TEMPO TOTAL|||||| ||36h || ||
+
+<h2>6.	Preparação de Documentação e vídeo sobre o uso do sistema</h2>
+
+||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
+||TA07||Geração de documentos para uso do sistemas (manual) 
+||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
+||TA08||Geração de vídeo de como usar o sistema ||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
+||TEMPO TOTAL|||||| ||36h || ||
+
+
+<h2>7.	Implantação e instalação do sistema</h2>
+
+||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
+||TA09||Implantação da última release (versão final) do sistema memorando ||<b>I05</b> ||Essencial ||12h ||Arnaldo/Claudia ||espera ||
+||TEMPO TOTAL|||||| ||12h || ||
 
 
 <br>
