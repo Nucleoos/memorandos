@@ -10,12 +10,6 @@
 
 <h2>1.	Conclusão das pendências funcionais do Sistema de Memorandos On-Line</h2><br>
 
-
-<br>
-|| <b>US1</b> ||<b>- Conclusão de pendências: Envio de despacho, geração de arquivo em PDF e DOC; ||<b>7 dias</b> ||
-
-
-
 ||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
 ||TA01 ||Salvar memorando em formado PDF com uso de framework iReport||I01 ||Essencial ||12h || ||Arnaldo ||em andamento ||
 ||TA02 ||Recuperar memorando e enviar despacho ||I01 ||Essencial ||12h || ||Claudia ||em andamento ||
@@ -55,7 +49,7 @@
 <h2>4.	Instalação do Sistema e teste pelos usuários</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
-||TA05||Geração de arquivo .war para deployment devidamente testado ||I04 ||Essencial ||12h || ||Arnaldo/Claudia ||espera ||
+||TA05||Geração de arquivo .war para deployment devidamente testado ||I03 ||Essencial ||12h || ||Arnaldo/Claudia ||espera ||
 ||TEMPO TOTAL|||||| ||12h || ||
 <br>
 
@@ -66,22 +60,32 @@
 <h2>5.	Ajustes no sistema</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA06||correção de possíveis falhas ou inclusão de novas funcionalidades ||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
+||TA06||correção de possíveis falhas ou inclusão de novas funcionalidades ||<b>I03, I04</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
 ||TEMPO TOTAL|||||| ||36h || ||
+<br>
+
+==US06==
+
+<br>
 
 <h2>6.	Preparação de Documentação e vídeo sobre o uso do sistema</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA07||Geração de documentos para uso do sistemas (manual) 
-||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
+||TA07||Geração de documentos para uso do sistemas (manual)||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
 ||TA08||Geração de vídeo de como usar o sistema ||<b>I05</b> ||Essencial ||36h ||Arnaldo/Claudia ||espera ||
 ||TEMPO TOTAL|||||| ||36h || ||
+
+<br>
+
+==US07==
+
+<br>
 
 
 <h2>7.	Implantação e instalação do sistema</h2>
 
 ||<b>Tarefa</b>||<b>Descrição</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>||
-||TA09||Implantação da última release (versão final) do sistema memorando ||<b>I05</b> ||Essencial ||12h ||Arnaldo/Claudia ||espera ||
+||TA09||Implantação da última release (versão final) do sistema memorando ||<b>I06</b> ||Essencial ||12h ||Arnaldo/Claudia ||espera ||
 ||TEMPO TOTAL|||||| ||12h || ||
 
 
