@@ -11,10 +11,10 @@
 <h2>1.	Conclusão das pendências funcionais do Sistema de Memorandos On-Line</h2><br>
 
 ||<b>Tarefa</b>||<b>Descricao</b>||<b>[Iteration Iteração]</b>||<b>Prioridade</b> || <b>Estimado</b>|| <b>Real</b>||<b>Responsável</b>|| <b>Status</b>||
-||TA01 ||Salvar memorando em formado PDF com uso de framework iReport||<b>I01</b>||Essencial ||12h || ||Arnaldo ||em andamento ||
-||TA02 ||Recuperar memorando e enviar despacho ||<b>I01</b>||Essencial ||12h || ||Claudia ||em andamento ||
-||TA03 ||Executar bateria de testes nos quesitos de segurança e confiabilidade.  ||<b>I01</b> ||Essencial ||24h || ||Arnaldo/Claudia ||em andamento ||
-||TEMPO TOTAL|||| || ||48h || ||
+||TA01 ||Salvar memorando em formado PDF com uso de framework iReport||<b>I01</b>||Essencial ||6h || ||Arnaldo ||em andamento ||
+||TA02 ||Recuperar memorando e enviar despacho ||<b>I01</b>||Essencial ||6h || ||Claudia ||em andamento ||
+||TA03 ||Executar bateria de testes nos quesitos de segurança e confiabilidade.  ||<b>I01</b> ||Essencial ||2h || ||Arnaldo/Claudia ||em andamento ||
+||TEMPO TOTAL|||| || ||14h || ||
 <br>
 
 
