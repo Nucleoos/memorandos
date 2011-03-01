@@ -6,5 +6,5 @@ Aqui a equipe aponta os riscos antes e durante o desenvovimento do produto.
 
 
 
-||Riscos||Prioridade||Responsável||Status||Solução||
+||Descrição do risco||Data ||Gravidade (baixo, médio, alto)||Ordem(1=pior risco)||Ordem semana passada ||Prioridade||Responsável||Status||Solução||
 ||Poucas reuniões presenciais com o cliente devido ao mesmo morar fora||Alta||Arnaldo e Cláudia|| Em andamento||Usar outros meios para esclarecimento de possíveis dúvidas, como email e telefone||
