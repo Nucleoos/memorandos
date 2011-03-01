@@ -12,7 +12,5 @@
           * Em seguida, novos riscos são levantados junto à equipe;
           * Cada problema de médio/alto risco deve ter um dono;
           * O problema deve ser acompanhado separadamente com uma tabela de riscos, contendo:
-
-
-
+<br>
 ||Descrição do risco||Data ||Gravidade (baixo, médio, alto)||Ordem(1=pior risco)||Ordem semana passada ||Prioridade||Responsável||Status||Solução||
